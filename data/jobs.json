@@ -32446,7 +32446,7 @@
     "verifiedAt": "2026-02-22T23:23:03.196Z",
     "scrapedAt": "2026-02-16T07:16:54.690Z",
     "url": "https://wagey.gg/jobs/2991c298544612ff-customer-support-agent-at-fresh-prints?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "29ef5ba105e55955",
@@ -32467,7 +32467,7 @@
     "verifiedAt": "2026-02-22T23:24:03.323Z",
     "scrapedAt": "2026-02-16T07:16:54.870Z",
     "url": "https://wagey.gg/jobs/29ef5ba105e55955-founding-engineer-at-fresh-prints?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "65f30c0ff0e6a8d1",
@@ -32489,7 +32489,7 @@
     "verifiedAt": "2026-02-22T23:24:07.070Z",
     "scrapedAt": "2026-02-16T07:18:38.036Z",
     "url": "https://wagey.gg/jobs/65f30c0ff0e6a8d1-senior-data-scientist-at-go1-australia?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "8a99a1679f9d934d",
@@ -32505,7 +32505,7 @@
     "verifiedAt": "2026-02-22T23:26:31.420Z",
     "scrapedAt": "2026-02-16T07:20:22.796Z",
     "url": "https://wagey.gg/jobs/8a99a1679f9d934d-interview-engineer-philippines-at-interview-engineering?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "75d0f6076555e974",
@@ -32527,7 +32527,7 @@
     "verifiedAt": "2026-02-22T23:31:23.496Z",
     "scrapedAt": "2026-02-16T07:22:18.276Z",
     "url": "https://wagey.gg/jobs/75d0f6076555e974-vice-president-sales-apj-at-liveperson?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a715f30e80d3d6a1",
@@ -32549,7 +32549,7 @@
     "verifiedAt": "2026-02-22T23:32:03.800Z",
     "scrapedAt": "2026-02-16T07:22:38.250Z",
     "url": "https://wagey.gg/jobs/a715f30e80d3d6a1-associate-support-engineer-apac-at-mariadb-plc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "75d373231226740d",
@@ -32571,7 +32571,7 @@
     "verifiedAt": "2026-02-22T23:31:59.530Z",
     "scrapedAt": "2026-02-16T07:23:38.273Z",
     "url": "https://wagey.gg/jobs/75d373231226740d-talent-experience-partner-apac-at-mentimeter?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "950fb2e7fc6430f0",
@@ -32591,7 +32591,7 @@
     "verifiedAt": "2026-02-22T23:35:44.996Z",
     "scrapedAt": "2026-02-16T07:23:58.183Z",
     "url": "https://wagey.gg/jobs/950fb2e7fc6430f0-data-scientist-intern-growth-analytics-6-month-internship-at-moloco?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a75ba0b51119decb",
@@ -45925,6 +45925,95 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-22T21:23:32.870Z",
     "scrapedAt": "2026-02-22T21:23:32.360Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5d8235a2259a4d27",
+    "title": "Partner Success Manager - Installations",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Google Sheets",
+      "Google Slides",
+      "Customer Success",
+      "Cross-functional Collaboration"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-23T00:50:11.710Z",
+    "scrapedAt": "2026-02-23T00:50:10.790Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a6c864dbcdc67bac",
+    "title": "Senior Business Intelligence Manager, Growth",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "SQL",
+      "Data Analysis",
+      "Mandarin",
+      "Tableau",
+      "Power BI",
+      "Business Intelligence",
+      "Data Quality",
+      "Reporting"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-23T00:50:13.830Z",
+    "scrapedAt": "2026-02-23T00:50:11.716Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "24f28ab9ba25dade",
+    "title": "Customer Success Manager, APAC - Channel",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Partnership Development",
+      "Customer Onboarding",
+      "Customer Success"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T00:50:15.120Z",
+    "scrapedAt": "2026-02-23T00:50:13.776Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "c85d21716105c35a",
+    "title": "Design Lead",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Adobe Creative Suite",
+      "Team Leadership",
+      "Brand Management",
+      "Product Marketing",
+      "Figma",
+      "Mentoring"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T00:50:16.296Z",
+    "scrapedAt": "2026-02-23T00:50:15.703Z",
     "url": null,
     "visibility": "teaser"
   }
