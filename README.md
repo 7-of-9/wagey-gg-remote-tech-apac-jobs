@@ -4,18 +4,18 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 23-Feb-2026 05:53 UTC** | **2,174** | **289** | **2,174** |
+| **Asia-Pacific as of 23-Feb-2026 06:25 UTC** | **2,174** | **289** | **2,174** |
 
 ## Jobs
 
 | Company | Role | Salary | Age | |
 |---------|------|--------|-----|---|
-| 🔒 ░░░░░░░░ | Product Partnerships Manager, APAC <br><sub>🏢 Singapore • APAC</sub> |  | 8h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Lead Engineer <br><sub>🌐 Remote - Australia &amp; New Zealan • APAC</sub> |  | 8h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Senior DevOps Engineer <br><sub>🌐 Remote - India • APAC</sub> |  | 8h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Product Partnerships Manager, APAC <br><sub>🏢 Singapore • APAC</sub> |  | 9h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Lead Engineer <br><sub>🌐 Remote - Australia &amp; New Zealan • APAC</sub> |  | 9h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior DevOps Engineer <br><sub>🌐 Remote - India • APAC</sub> |  | 9h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Sr. Growth & Operations Lead, South K... <br><sub>🌐 Remote - Seoul, South Korea • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | (Senior) DeFi Trader (Prediction Mark... <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Coda - Senior Account Manager <br><sub>🏢 Shanghai, China • APAC</sub> |  | 20h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Coda - Senior Account Manager <br><sub>🏢 Shanghai, China • APAC</sub> |  | 21h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Associate Payroll & Billing Specialist <br><sub>🌐 Remote - India (Remote-First) • APAC</sub> |  | 21h | [Pro](https://wagey.gg/pricing?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=afd67a81e44c20d2" alt="" height="16"> YipitData | Senior iOS Developer <br><sub>🏢 India Remote - Hybrid • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/6e25d447e079d87f-senior-ios-developer-at-yipitdata?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=c471b86107460d91" alt="" height="16"> Paxos | Business Development Director <br><sub>🌐 Remote - Singapore • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/a4852f01d9c267f0-business-development-director-at-paxos?ref=github) |
@@ -198,7 +198,7 @@
 | <img src="https://wagey.gg/api/company-logo?id=911b8ccc2518a2cb" alt="" height="16"> groupbyinc | ASEAN Sales Director <br><sub>🏢 Singapore / Bangkok / Manila • APAC</sub> |  | 3d | [Apply](https://wagey.gg/jobs/f32ddce0b0cc1d22-asean-sales-director-at-groupbyinc?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> smart-working-solutions | Lead Android Developer (Remote, Full-... <br><sub>🌐 Remote - India / Ahmedabad / Bangal • APAC</sub> |  | 3d | [Apply](https://wagey.gg/jobs/3d5cedbf144043ed-lead-android-developer-remote-full-time-hr145-at-smart-working-solutions?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> showpo-2 | Senior Web Analytics Specialist (Remo... <br><sub>🌐 Remote - Manila,  National Capital  • APAC</sub> |  | 3d | [Apply](https://wagey.gg/jobs/3a9a57036fd88e6f-senior-web-analytics-specialist-remote-work-from-home-at-showpo-2?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=307baa5f36b8772a" alt="" height="16"> Sitemate | Graduate Sales Representative <br><sub>🏢 Sydney, NSW, Australia - Hybrid • APAC</sub> | $75k - $110k | 3d | [Apply](https://wagey.gg/jobs/1fcfe2c478f99db2-graduate-sales-representative-at-sitemate?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=307baa5f36b8772a" alt="" height="16"> Sitemate | Graduate Sales Representative <br><sub>🏢 Sydney, NSW, Australia - Hybrid • APAC</sub> | $75k - $110k | 4d | [Apply](https://wagey.gg/jobs/1fcfe2c478f99db2-graduate-sales-representative-at-sitemate?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=e7ee0cea89386f94" alt="" height="16"> Nium | Nium - SDE II - Backend (Node.js) <br><sub>🏢 Mumbai • APAC</sub> |  | 4d | [Apply](https://wagey.gg/jobs/c01ef963d4c38b3f-nium-sde-ii-backend-node-js-at-nium?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=8e419539c2daf968" alt="" height="16"> Bjak | DevOps Engineer <br><sub>🏢 Beijing, China, China • APAC</sub> |  | 4d | [Apply](https://wagey.gg/jobs/78cf10498778d438-devops-engineer-at-bjak?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=307baa5f36b8772a" alt="" height="16"> Sitemate | Product Design Manager <br><sub>🏢 Sydney, NSW, Australia - Hybrid • APAC</sub> | $90k - $120k | 4d | [Apply](https://wagey.gg/jobs/611f19b2135bfd36-product-design-manager-at-sitemate?ref=github) |
