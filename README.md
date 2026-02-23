@@ -5,7 +5,7 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 23-Feb-2026 01:18 UTC** | **2,167** | **287** | **2,167** |
+| **Asia-Pacific as of 23-Feb-2026 01:23 UTC** | **2,167** | **287** | **2,167** |
 
 ## Jobs
 
@@ -16,9 +16,9 @@
 | <img src="https://wagey.gg/api/company-logo?id=3eb1a078a5d12c5a" alt="" height="20"> Coda | Coda - Senior Account Manager | Shanghai, China |  | Mandarin, Coda, Product Marketing +2 | 16h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
 | G-P | Associate Payroll & Billing Specialist | Remote - India (Remote-First) |  | Excel, Reporting, Microsoft Office +2 | 16h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=afd67a81e44c20d2" alt="" height="20"> YipitData | Senior iOS Developer | India Remote - Hybrid |  | Swift, Objective-C, UIKit +2 | 22h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=c471b86107460d91" alt="" height="20"> Paxos | Business Development Director | Remote - Singapore |  | Business Development, B2B | 22h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=80cd46c824f8e864" alt="" height="20"> Kraken | Client Security Analyst | Remote - Hanoi, Vietnam, Canada, Brazil, Cyprus, Philippines, Vietnam |  | Portuguese, Russian, Turkish | 22h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
-| Crypto.com | Principal Product Designer - Innovation | Singapore, Singapore |  | Team Leadership, Figma, Market Research | 22h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=c471b86107460d91" alt="" height="20"> Paxos | Business Development Director | Remote - Singapore |  | Business Development, B2B | 23h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=80cd46c824f8e864" alt="" height="20"> Kraken | Client Security Analyst | Remote - Hanoi, Vietnam, Canada, Brazil, Cyprus, Philippines, Vietnam |  | Portuguese, Russian, Turkish | 23h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
+| Crypto.com | Principal Product Designer - Innovation | Singapore, Singapore |  | Team Leadership, Figma, Market Research | 23h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="20"> Binance | Binance - Binance Accelerator Program | Taiwan, Taipei / Asia |  | Quality Assurance | 23h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=2637bb16565bdc94" alt="" height="20"> Binance | Senior Frontend Engineer - Stablecoin | Remote - Asia / Taiwan, Taipei / UAE, Dubai |  | JavaScript, TypeScript, React +2 | 23h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=e03239b27e34a5f7" alt="" height="20"> Galaxy | Vice President, Compliance (APAC) | Hong Kong |  | Reporting, Client Onboarding, Governance | 23h | [wagey Pro](https://wagey.gg/pricing?ref=github) |
@@ -212,7 +212,7 @@
 | Crypto.com | Senior FullStack Developer (React Native) - MainApp Web | Taipei, Taiwan |  | JavaScript, Next.js, Node.js +2 | 3d | [Apply](https://wagey.gg/jobs/087982b77b2d655a-senior-fullstack-developer-react-native-mainapp-web-at-crypto-com?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=116f9be56730ee19" alt="" height="20"> Panoptyc | Junior Graphic Designer | Philippines |  | Canva, Figma, Adobe Illustrator +2 | 3d | [Apply](https://wagey.gg/jobs/b08807cea1e7b54a-junior-graphic-designer-at-panoptyc?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=307baa5f36b8772a" alt="" height="20"> Sitemate | Product Design Manager | Sydney, NSW, Australia - Hybrid | $90k - $120k | Figma, Mixpanel | 3d | [Apply](https://wagey.gg/jobs/055f2ae0a67f2ace-product-design-manager-at-sitemate?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=b9ece37636371497" alt="" height="20"> Rackspace | Rackspace - Job Opportunity : Azure Devops Engineer II/III | Remote - India - Remote | $100/hour | Python, Azure, Azure DevOps +2 | 3d | [Apply](https://wagey.gg/jobs/669895947c4cb852-rackspace-job-opportunity-azure-devops-engineer-ii-iii-at-rackspace?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=b9ece37636371497" alt="" height="20"> Rackspace | Rackspace - Job Opportunity : Azure Devops Engineer II/III | Remote - India - Remote | $100/hour | Python, Azure, Azure DevOps +2 | 4d | [Apply](https://wagey.gg/jobs/669895947c4cb852-rackspace-job-opportunity-azure-devops-engineer-ii-iii-at-rackspace?ref=github) |
 | vCluster Labs | Sr. Solutions Engineer | Remote - Singapore, Australia | €100k - €120k | Kubernetes, Stripe, Salesforce | 4d | [Apply](https://wagey.gg/jobs/a4e70409ff26131a-sr-solutions-engineer-at-vcluster-labs?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=9e402fa42d0b71b6" alt="" height="20"> TSMG | TSMG jobs | Remote - Singapore |  | Team Management, ACCA, Phoenix +1 | 4d | [Apply](https://wagey.gg/jobs/36580caf4e3a319f-tsmg-jobs-at-tsmg?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=0f843cab89c4155f" alt="" height="20"> Everbridge  | Everbridge - Senior Staff Engineer | Bengaluru |  | React, Coaching, C# +2 | 4d | [Apply](https://wagey.gg/jobs/3c07271e4f4fb880-everbridge-senior-staff-engineer-at-everbridge?ref=github) |
@@ -518,7 +518,7 @@
 ## Other Regions
 
 - [**All regions (main list)**](https://github.com/7-of-9/wagey-gg-remote-tech-jobs)
-- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,400 jobs
+- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,375 jobs
 
 ---
 
