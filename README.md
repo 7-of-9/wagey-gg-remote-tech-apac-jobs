@@ -5,7 +5,7 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 23-Feb-2026 02:41 UTC** | **2,167** | **287** | **2,167** |
+| **Asia-Pacific as of 23-Feb-2026 03:03 UTC** | **2,167** | **287** | **2,167** |
 
 ## Jobs
 
@@ -518,7 +518,7 @@
 ## Other Regions
 
 - [**All regions (main list)**](https://github.com/7-of-9/wagey-gg-remote-tech-jobs)
-- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,374 jobs
+- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,376 jobs
 
 ---
 
