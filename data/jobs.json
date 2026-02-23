@@ -38485,7 +38485,7 @@
     "verifiedAt": "2026-02-23T10:52:12.656Z",
     "scrapedAt": "2026-02-16T22:02:28.220Z",
     "url": "https://wagey.gg/jobs/22e99fde884c5889-company-binance-at-payment-tech?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "948b6905ed2e34ff",
@@ -38507,7 +38507,7 @@
     "verifiedAt": "2026-02-23T10:53:53.263Z",
     "scrapedAt": "2026-02-16T22:14:51.086Z",
     "url": "https://wagey.gg/jobs/948b6905ed2e34ff-sr-wfm-analyst-at-highlevel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e6382e1bfe2a9aeb",
@@ -45842,7 +45842,7 @@
   {
     "id": "79d4248bb44cc6a3",
     "title": "Envato - Lead Engineer",
-    "company": null,
+    "company": "",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -45858,13 +45858,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-23T09:30:30.120Z",
     "scrapedAt": "2026-02-22T21:22:53.270Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/79d4248bb44cc6a3-envato-lead-engineer-at?ref=github",
+    "visibility": "full"
   },
   {
     "id": "04df7e03bc6395e7",
     "title": "Product Partnerships Manager, APAC",
-    "company": null,
+    "company": "",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -45877,8 +45877,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-23T09:30:47.706Z",
     "scrapedAt": "2026-02-22T21:23:32.360Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/04df7e03bc6395e7-product-partnerships-manager-apac-at?ref=github",
+    "visibility": "full"
   },
   {
     "id": "5d8235a2259a4d27",
@@ -47010,6 +47010,67 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-23T14:59:21.730Z",
     "scrapedAt": "2026-02-23T14:59:20.880Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "7f0b078250b677d0",
+    "title": "Research Engineer, Data (India)",
+    "company": null,
+    "region": "APAC",
+    "salary": "$2k/year",
+    "salaryMin": 1602,
+    "salaryMax": 1602,
+    "skills": [],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T15:40:46.733Z",
+    "scrapedAt": "2026-02-23T15:40:46.333Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "2fd8dab4b12be270",
+    "title": "Senior Frontend Software Engineer I",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "JavaScript",
+      "GraphQL",
+      "Redux",
+      "TeamCity",
+      "GitHub Actions",
+      "Chi"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-23T15:40:51.890Z",
+    "scrapedAt": "2026-02-23T15:40:51.173Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a7b6de1ff96e401f",
+    "title": "Manager, Regulatory Compliance",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Regulatory Compliance",
+      "Staff Development",
+      "Reporting",
+      "Cross-functional Collaboration",
+      "Risk Management"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-23T15:42:03.526Z",
+    "scrapedAt": "2026-02-23T15:42:02.820Z",
     "url": null,
     "visibility": "teaser"
   }
