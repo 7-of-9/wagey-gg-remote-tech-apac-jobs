@@ -4,16 +4,16 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 23-Feb-2026 07:47 UTC** | **2,174** | **290** | **2,174** |
+| **Asia-Pacific as of 23-Feb-2026 08:03 UTC** | **2,174** | **290** | **2,174** |
 
 ## Jobs
 
-| Company | Role | Salary | Age | |
-|---------|------|--------|-----|---|
-| 🔒 ░░░░░░░░ | Design Lead <br><sub>🌐 Remote - Worldwide - Remote - Asia- • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Customer Success Manager, APAC - Channel <br><sub>🏢 Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Senior Business Intelligence Manager,... <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Partner Success Manager - Installations <br><sub>🌐 Remote - Pakistan - Remote • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| Company | Role | Salary USD | Age | |
+|---------|------|------------|-----|---|
+| 🔒 ░░░░░░░░ | Design Lead <br><sub>🌐 Remote - Worldwide - Remote - Asia- • APAC</sub> |  | 7h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Customer Success Manager, APAC - Channel <br><sub>🏢 Singapore • APAC</sub> |  | 7h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior Business Intelligence Manager,... <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 7h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Partner Success Manager - Installations <br><sub>🌐 Remote - Pakistan - Remote • APAC</sub> |  | 7h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Product Partnerships Manager, APAC <br><sub>🏢 Singapore • APAC</sub> |  | 10h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Lead Engineer <br><sub>🌐 Remote - Australia &amp; New Zealan • APAC</sub> |  | 10h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Senior DevOps Engineer <br><sub>🌐 Remote - India • APAC</sub> |  | 10h | [Pro](https://wagey.gg/pricing?ref=github) |
