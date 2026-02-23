@@ -4,33 +4,64 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 23-Feb-2026 18:26 UTC** | **2,190** | **291** | **2,190** |
+| **Asia-Pacific as of 23-Feb-2026 19:26 UTC** | **2,221** | **291** | **2,221** |
 
 ## Jobs
 
 | Company | Role | Salary USD | Age | |
 |---------|------|------------|-----|---|
-| 🔒 ░░░░░░░░ | Sr. Sales Manager, Kraken Institutional <br><sub>🌐 Remote - APAC • APAC</sub> | $104k/year | 8h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Design Lead <br><sub>🌐 Remote - NA - Asia-Pacific * • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Business Development & Operations Spe... <br><sub>🏢 Taiwan, Taipei • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Binance - Post Listing Research and A... <br><sub>🏢 Asia / Hong Kong / Taiwan, Taipei - • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Binance - (Senior) Product Manager, M... <br><sub>🏢 Hong Kong • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Binance - Senior Flutter Engineer (iO... <br><sub>🌐 Remote - Asia / Hong Kong / Taiwan, • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Binance Accelerator Program - Marketi... <br><sub>🏢 New Zealand, Auckland / Australia,  • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Senior PR Manager - Vietnam <br><sub>🌐 Remote - South East Asia • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Binance - QA Engineer (Java coding) <br><sub>🌐 Taiwan, Taipei / Australia, Brisban • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Procurement Analyst <br><sub>🌐 Remote - Asia / Taiwan, Taipei / Ho • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Enterprise Sales Director (Bengaluru ... <br><sub>🌐 Remote - New Delhi, India • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Smart Working Solutions - Full Stack ... <br><sub>🌐 Remote - Pakistan / Faisalabad / Ka • APAC</sub> |  | 15h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Binance - Security Engineer (Python, ... <br><sub>🌐 Vietnam, Ho Chi Minh • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Engineering Manager <br><sub>🌐 Remote - Bangalore • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Design Lead <br><sub>🌐 Remote - Worldwide - Remote - Asia- • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Customer Success Manager, APAC - Channel <br><sub>🏢 Pulau Ujong, Singapore • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Senior Business Intelligence Manager,... <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Partner Success Manager - Installations <br><sub>🌐 Remote - Pakistan - Remote • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Product Partnerships Manager, APAC <br><sub>🏢 Singapore • APAC</sub> |  | 21h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Envato - Lead Engineer <br><sub>🌐 Remote - Australia &amp; New Zealan • APAC</sub> |  | 21h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Senior DevOps Engineer <br><sub>🌐 Remote - India • APAC</sub> |  | 21h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Software Engineer, Infrastructure <br><sub>🏢 Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Sr. Manager, Service Desk - APAC <br><sub>🏢 Chennai, India • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Email Marketing Senior Specialist (EU... <br><sub>🏢 Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | シニアソフトウェアエンジニア, JavaScript/TypeScript... <br><sub>🌐 Remote - Tokyo, Japan • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | 全栈工程师, JavaScript/TypeScript (Full St... <br><sub>🌐 Remote - China • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior Software Engineer, JavaScript/... <br><sub>🌐 Remote - Indonesia • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior Software Engineer, JavaScript/... <br><sub>🌐 Remote - Hong Kong • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | 시니어 소프트웨어 엔지니어, JavaScript/TypeScript... <br><sub>🌐 Remote - Seoul, Korea • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | 高级软件工程师, JavaScript/TypeScript (Senio... <br><sub>🌐 Remote - China • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Head of People (Global) <br><sub>🌐 Remote - China • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Lead Software Engineer (Remote) <br><sub>🌐 Remote - China • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Head of People (Global) <br><sub>🌐 Remote - Hong Kong • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Head of People (Global) <br><sub>🌐 Remote - Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Lead Software Engineer, JavaScript/Ty... <br><sub>🌐 Remote - Indonesia • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Head of People (Global) <br><sub>🌐 Remote - Malaysia • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | AI Benchmark Engineer - Native Langua... <br><sub>🌐 Remote - India (Remote) • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | AI Benchmark Engineer - Native Langua... <br><sub>🌐 Remote - India (Remote) • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | AI Benchmark Engineer - Native Langua... <br><sub>🌐 Remote - Nigeria (Remote) - Asia-Pa • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | AI Benchmark Engineer - Native Langua... <br><sub>🌐 Remote - Japan (Remote) • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | AI Benchmark Engineer - Native Langua... <br><sub>🌐 Remote - Korea (Remote) • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Sr. Technical Trainer <br><sub>🌐 Remote - India • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Graduate Sales Development Representa... <br><sub>🏢 Home Based - APAC • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior Engineering Director <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Communications & PR Director, APAC <br><sub>🏢 Sydney, New South Wales, Australia • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Communications & PR Director, APAC <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Communications & PR Director, APAC <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Manager, Project Support Specialist <br><sub>🌐 Remote - Taiwan • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | LLM Platform Engineer/Lead (m/f/d) <br><sub>🌐 Remote - EMEA, Remote India • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Strategic Account Executive - Federal... <br><sub>🌐 Remote - Australia • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Solutions Architect - Korea <br><sub>🌐 Remote - South Korea • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | IT Service Desk Engineer / Specialist <br><sub>🌐 Remote - Singapore • APAC</sub> |  | 6h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Sr. Sales Manager, Kraken Institutional <br><sub>🌐 Remote - APAC • APAC</sub> | $104k/year | 9h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Design Lead <br><sub>🌐 Remote - NA - Asia-Pacific * • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Business Development & Operations Spe... <br><sub>🏢 Taiwan, Taipei • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Binance - Post Listing Research and A... <br><sub>🏢 Asia / Hong Kong / Taiwan, Taipei - • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Binance - (Senior) Product Manager, M... <br><sub>🏢 Hong Kong • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Binance - Senior Flutter Engineer (iO... <br><sub>🌐 Remote - Asia / Hong Kong / Taiwan, • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Binance Accelerator Program - Marketi... <br><sub>🏢 New Zealand, Auckland / Australia,  • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior PR Manager - Vietnam <br><sub>🌐 Remote - South East Asia • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Binance - QA Engineer (Java coding) <br><sub>🌐 Taiwan, Taipei / Australia, Brisban • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Procurement Analyst <br><sub>🌐 Remote - Asia / Taiwan, Taipei / Ho • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Enterprise Sales Director (Bengaluru ... <br><sub>🌐 Remote - New Delhi, India • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Smart Working Solutions - Full Stack ... <br><sub>🌐 Remote - Pakistan / Faisalabad / Ka • APAC</sub> |  | 16h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Binance - Security Engineer (Python, ... <br><sub>🌐 Vietnam, Ho Chi Minh • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Engineering Manager <br><sub>🌐 Remote - Bangalore • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Design Lead <br><sub>🌐 Remote - Worldwide - Remote - Asia- • APAC</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Customer Success Manager, APAC - Channel <br><sub>🏢 Pulau Ujong, Singapore • APAC</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior Business Intelligence Manager,... <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Partner Success Manager - Installations <br><sub>🌐 Remote - Pakistan - Remote • APAC</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Product Partnerships Manager, APAC <br><sub>🏢 Singapore • APAC</sub> |  | 22h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Envato - Lead Engineer <br><sub>🌐 Remote - Australia &amp; New Zealan • APAC</sub> |  | 22h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Senior DevOps Engineer <br><sub>🌐 Remote - India • APAC</sub> |  | 22h | [Pro](https://wagey.gg/pricing?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Tools for Humanity | Sr. Growth & Operations Lead, South K... <br><sub>🌐 Remote - Seoul, South Korea • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/6c79f0cf2a39d931-sr-growth-operations-lead-south-korea-at-tools-for-humanity?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=4038008ddb48406a" alt="" height="16"> OKX | (Senior) DeFi Trader (Prediction Mark... <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/facf96c32f73a607-senior-defi-trader-prediction-markets-sports-at-okx?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=3eb1a078a5d12c5a" alt="" height="16"> Coda | Coda - Senior Account Manager <br><sub>🏢 Shanghai, China • APAC</sub> | $48k/year | 1d | [Apply](https://wagey.gg/jobs/e7ce3d027bc233ca-coda-senior-account-manager-at-coda?ref=github) |
@@ -83,7 +114,7 @@
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Capstone Integrated Solut | Cloud Back End Engineer <br><sub>🌐 Remote - Asia-Pacific * • APAC</sub> |  | 2d | [Apply](https://wagey.gg/jobs/a017c54d7781de06-cloud-back-end-engineer-at-capstone-integrated-solutions?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=222dcd03aed943a8" alt="" height="16"> Zapier | Manager, Sales Assist <br><sub>🌐 Remote - India • APAC</sub> |  | 2d | [Apply](https://wagey.gg/jobs/114a41c312f003ef-manager-sales-assist-at-zapier?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=68e04eaa25076ebe" alt="" height="16"> MariaDB plc | Associate Support Engineer <br><sub>🌐 Remote - Malaysia • APAC</sub> |  | 2d | [Apply](https://wagey.gg/jobs/8369e152d7dea63b-associate-support-engineer-at-mariadb-plc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Smart Working Solutions | Smart Working Solutions - Marketing &... <br><sub>🌐 Remote - India / Ahmedabad / Cochin • APAC</sub> |  | 2d | [Apply](https://wagey.gg/jobs/10052d2a03c5c0f1-smart-working-solutions-marketing-crm-data-engineer-remote-full-time-em011-at-sm?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Smart Working Solutions | Smart Working Solutions - Marketing &... <br><sub>🌐 Remote - India / Ahmedabad / Cochin • APAC</sub> |  | 3d | [Apply](https://wagey.gg/jobs/10052d2a03c5c0f1-smart-working-solutions-marketing-crm-data-engineer-remote-full-time-em011-at-sm?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=307baa5f36b8772a" alt="" height="16"> Sitemate | Machine Learning Engineer <br><sub>🏢 Sydney, NSW, Australia - Hybrid • APAC</sub> | $60k–$141k/year | 3d | [Apply](https://wagey.gg/jobs/2fa08f8c18bf4d32-machine-learning-engineer-at-sitemate?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> simply-wall-st | Equity Analyst Intern <br><sub>🌐 Remote - Sydney, NSW, Australia • APAC</sub> |  | 3d | [Apply](https://wagey.gg/jobs/2a2a9cbde40451c9-equity-analyst-intern-at-simply-wall-st?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=64ce6913c7a33dc1" alt="" height="16"> delinea | Regional Sales Director (ASEAN) <br><sub>🌐 Remote - Home Office (Singapore) • APAC</sub> |  | 3d | [Apply](https://wagey.gg/jobs/01bfd145ed8635e5-regional-sales-director-asean-at-delinea?ref=github) |
@@ -479,37 +510,6 @@
 | <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Technical Program Manager (Bangkok ba... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/5367beb4cec0cd6b-technical-program-manager-bangkok-based-relocation-provided-at-agoda?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Technical Partnership Manager – Suppl... <br><sub>🏢 Bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/430f8e37706836d5-technical-partnership-manager-supply-integrations-bangkok-based-relocation-benef?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Tax Technology (Systems), Senior Spec... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/2efb75f9f8ac3d2e-tax-technology-systems-senior-specialist-bangkok-based-relocation-provided-at-ag?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Tax Technology, Senior Specialist (Ba... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/1fa57b30ea185630-tax-technology-senior-specialist-bangkok-based-relocation-provided-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Tax Data & Technology Specialist (Ban... <br><sub>🏢 bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/1680b8fa57297d78-tax-data-technology-specialist-bangkok-based-relocation-provided-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Tax Data Reporting Specialist (Bangko... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/0dcda18834247ce7-tax-data-reporting-specialist-bangkok-based-relocation-provided-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | [Summer Internship 2026] Technical Su... <br><sub>🏢 bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/656c210a9407e744-summer-internship-2026-technical-support-intern-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Strategy & Operations (RMO), Regional... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/ca0e31809a2ef49c-strategy-operations-rmo-regional-manager-senior-manager-bangkok-based-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Alamar Biosciences | Technical Support Scientist – US East <br><sub>🌐 Remote - Asia-Pacific * • APAC</sub> | $110k–$130k/year | 7d | [Apply](https://wagey.gg/jobs/22256bd78391a425-technical-support-scientist-us-east-at-alamar-biosciences?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Solutions Manager, Supply (Bangkok-ba... <br><sub>🏢 bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/3b895997eb4575a5-solutions-manager-supply-bangkok-based-relocation-benefits-provided-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Senior Planner - Forecasting, WFM (Ba... <br><sub>🏢 Kuala Lumpur, Gurgaon OR Pune • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/024ecce1fdf683aa-senior-planner-forecasting-wfm-bangkok-kuala-lumpur-gurgaon-pune-based-relocatio?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Senior Finance Project Manager – New ... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/85c2315fdb165ab0-senior-finance-project-manager-new-business-initiative-bangkok-based-relocation-?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Senior Lead, Key Account Operations a... <br><sub>🏢 Bangkok, Thailand • APAC</sub> | $104k/year | 7d | [Apply](https://wagey.gg/jobs/9b36fc8be06854ba-senior-lead-key-account-operations-and-projects-bangkok-based-temp-9-months-at-a?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Senior Associate WFM Manager - Foreca... <br><sub>🏢 Gurgaon • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/a5487a3d54acbc01-senior-associate-wfm-manager-forecasting-bangkok-kuala-lumpur-gurgaon-pune-based?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Project Manager/Associate Project Man... <br><sub>🏢 Bangkok • APAC</sub> | $79k/year | 7d | [Apply](https://wagey.gg/jobs/00096faad0ce62de-project-manager-associate-project-manager-operational-excellence-automation-base?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Project Associate - Operational Excel... <br><sub>🏢 Bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/0426aef03f3a6bb2-project-associate-operational-excellence-automation-based-in-bangkok-thailand-re?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Partner Tech Innovations Lead, Supply... <br><sub>🏢 Bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/91f8d599315e43f8-partner-tech-innovations-lead-supply-bangkok-based-relocation-benefits-provided-?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Manager/Senior Manager, Growth Market... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/4295150acb1e92bb-manager-senior-manager-growth-marketing-relocation-provided-bangkok-based-at-ago?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Manager/Senior Manager, Growth Market... <br><sub>🏢 Bangkok (Central World Office) - As • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/95a026dd04394f18-manager-senior-manager-growth-marketing-new-verticals-relocation-provided-bangko?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Manager, Integrations & Solutions (Su... <br><sub>🏢 Bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/ce5ffedff2ff2d27-manager-integrations-solutions-supply-bangkok-based-relocation-benefits-provided?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Lead/Senior Lead, Regional Management... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/e6daaa8f32b1e829-lead-senior-lead-regional-management-office-bangkok-based-relocation-provided-at?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | HR Project Manager (Bangkok based, re... <br><sub>🏢 Bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/c45f9dd484463c34-hr-project-manager-bangkok-based-relocation-support-provided-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Finance Systems Product Manager / Sen... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/0d9f97f8a0047443-finance-systems-product-manager-senior-specialist-bangkok-based-relocation-provi?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Finance Operations Excellence Specialist <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/7ae96e9136992c3c-finance-operations-excellence-specialist-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Finance Graduate Program 2026 - Finan... <br><sub>🏢 Bangkok • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/ee1f4d24239a61e6-finance-graduate-program-2026-finance-business-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_060e5f7aa7ed8204" alt="" height="16"> AirTrunk | Accountant - Financial Operations <br><sub>🏢 Singapore HQ • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/98e248cd16407c25-accountant-financial-operations-at-airtrunk?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=co_060e5f7aa7ed8204" alt="" height="16"> AirTrunk | Accountant - Financial Controllership <br><sub>🏢 Singapore HQ • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/4949aa7a5cffa87e-accountant-financial-controllership-at-airtrunk?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Associate Manager/Manager, Global Cor... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/82242584e8e2294c-associate-manager-manager-global-corporate-public-relations-bangkok-based-reloca?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Analyst/Senior Analyst, Pricing Marke... <br><sub>🏢 Bangkok, Thailand • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/532119ac8e72cf3c-analyst-senior-analyst-pricing-marketing-marketing-analytics-bangkok-based-reloc?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=4eaaecf1a74d7ada" alt="" height="16"> Ahrefs | Marketing Manager, Indonesia Market <br><sub>🏢 Singapore • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/594af699ce81806c-marketing-manager-indonesia-market-at-ahrefs?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=ae3cb4bea9809e6a" alt="" height="16"> Agoda | Account Executive – Global Accounts (... <br><sub>🏢 Bangkok, Thailand • APAC</sub> | $104k/year | 7d | [Apply](https://wagey.gg/jobs/07b5cf8e66aacb06-account-executive-global-accounts-bangkok-based-at-agoda?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Affinidi | Standards Architect <br><sub>🏢 Singapore, Central, Singapore • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/2597624eb4f08d8a-standards-architect-at-affinidi?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> matchgroup | Match Group - Senior Manager, Corpora... <br><sub>🏢 Singapore • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/420cd20ba9f5f5e2-match-group-senior-manager-corporate-affairs-at-matchgroup?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=85a78fcfbd075853" alt="" height="16"> brafton | Remote Creative Production Project Ma... <br><sub>🌐 Remote - Bridgetown - Asia-Pacific  • APAC</sub> |  | 7d | [Apply](https://wagey.gg/jobs/b7779dc724298ebd-remote-creative-production-project-manager-caribbean-at-brafton?ref=github) |
 
 
 > Upload your CV at [wagey.gg](https://wagey.gg?ref=github) for smart matching and one-click apply.
@@ -517,7 +517,7 @@
 ## Other Regions
 
 - [**All regions (main list)**](https://github.com/7-of-9/wagey-gg-remote-tech-jobs)
-- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,432 jobs
+- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,486 jobs
 
 ---
 
