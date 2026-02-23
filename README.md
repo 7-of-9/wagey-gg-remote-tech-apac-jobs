@@ -5,17 +5,17 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 23-Feb-2026 02:29 UTC** | **2,167** | **287** | **2,167** |
+| **Asia-Pacific as of 23-Feb-2026 02:41 UTC** | **2,167** | **287** | **2,167** |
 
 ## Jobs
 
 | Company | Role | Salary | Age | |
 |---------|------|--------|-----|---|
-| 🔒 ░░░░░░░░ | Sr. Growth & Operations Lead, South K... <br><sub>🌐 Remote - Seoul, South Korea • APAC</sub> |  | 11h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | (Senior) DeFi Trader (Prediction Mark... <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 11h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Sr. Growth & Operations Lead, South K... <br><sub>🌐 Remote - Seoul, South Korea • APAC</sub> |  | 12h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | (Senior) DeFi Trader (Prediction Mark... <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 12h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Coda - Senior Account Manager <br><sub>🏢 Shanghai, China • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Associate Payroll & Billing Specialist <br><sub>🌐 Remote - India (Remote-First) • APAC</sub> |  | 17h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Senior iOS Developer <br><sub>🏢 India Remote - Hybrid • APAC</sub> |  | 23h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Associate Payroll & Billing Specialist <br><sub>🌐 Remote - India (Remote-First) • APAC</sub> |  | 18h | [Pro](https://wagey.gg/pricing?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=afd67a81e44c20d2" alt="" height="16"> YipitData | Senior iOS Developer <br><sub>🏢 India Remote - Hybrid • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/6e25d447e079d87f-senior-ios-developer-at-yipitdata?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=c471b86107460d91" alt="" height="16"> Paxos | Business Development Director <br><sub>🌐 Remote - Singapore • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/a4852f01d9c267f0-business-development-director-at-paxos?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=80cd46c824f8e864" alt="" height="16"> Kraken | Client Security Analyst <br><sub>🌐 Remote - Hanoi, Vietnam, Canada, Br • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/e786d20fd184c798-client-security-analyst-at-kraken?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Crypto.com | Principal Product Designer - Innovation <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 1d | [Apply](https://wagey.gg/jobs/4bf5f09d1ae67002-principal-product-designer-innovation-at-crypto-com?ref=github) |
@@ -301,7 +301,7 @@
 | <img src="https://wagey.gg/api/company-logo?id=4038008ddb48406a" alt="" height="16"> OKX | Engineering Director, Growth & Platform <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 5d | [Apply](https://wagey.gg/jobs/90ab4902d2fa9695-engineering-director-growth-platform-at-okx?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=4038008ddb48406a" alt="" height="16"> OKX | Engineering Director <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 5d | [Apply](https://wagey.gg/jobs/93611648c7be1bc7-engineering-director-at-okx?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=4038008ddb48406a" alt="" height="16"> OKX | Java R&D Engineer/expert - Stability ... <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 5d | [Apply](https://wagey.gg/jobs/ae82e3d8cdd7468a-java-r-d-engineer-expert-stability-engineering-platform-at-okx?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?id=0fd2b3354fb6e4b2" alt="" height="16"> Allium | Account Executive (Hong Kong Based) <br><sub>🏢 Unknown - Asia-Pacific * • APAC</sub> |  | 5d | [Apply](https://wagey.gg/jobs/cf9406a26b3c593b-account-executive-hong-kong-based-at-allium?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?id=0fd2b3354fb6e4b2" alt="" height="16"> Allium | Account Executive (Hong Kong Based) <br><sub>🏢 APAC</sub> |  | 5d | [Apply](https://wagey.gg/jobs/cf9406a26b3c593b-account-executive-hong-kong-based-at-allium?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=3e41d67d5461196c" alt="" height="16"> Heidi | APJ Clinical Associate <br><sub>🏢 Melbourne, Victoria, Australia - Hy • APAC</sub> | $110/hour | 5d | [Apply](https://wagey.gg/jobs/052f8fbf03c4e377-apj-clinical-associate-at-heidi?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=51b44534ad36bcc9" alt="" height="16"> Brillio | Brillio - Software Development Lead <br><sub>🏢 Mumbai, Maharashtra, India • APAC</sub> |  | 5d | [Apply](https://wagey.gg/jobs/2f2f974ddfb5200d-brillio-software-development-lead-at-brillio?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=3b53bf9f547e81f0" alt="" height="16"> Hopper | Senior Software Engineer, Full Stack <br><sub>🏢 India • APAC</sub> |  | 5d | [Apply](https://wagey.gg/jobs/b7d7ac5fbf68e896-senior-software-engineer-full-stack-at-hopper?ref=github) |
@@ -345,7 +345,7 @@
 | <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> Crypto.com | Software Engineer - AI Innovation <br><sub>🏢 Taipei, Taiwan • APAC</sub> |  | 6d | [Apply](https://wagey.gg/jobs/2b888ee4d44ef7bb-software-engineer-ai-innovation-at-crypto-com?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=02641f076b0cc3a1" alt="" height="16"> Twilio | Personalized Support Engineer 2 <br><sub>🌐 Remote - India • APAC</sub> |  | 6d | [Apply](https://wagey.gg/jobs/65f95cf6e3ee75c0-personalized-support-engineer-2-at-twilio?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=307baa5f36b8772a" alt="" height="16"> Sitemate | Sales Enablement Manager (GTM Collate... <br><sub>🏢 Sydney, NSW, Australia • APAC</sub> | $80k - $100k | 6d | [Apply](https://wagey.gg/jobs/41f7d9653cc88d01-sales-enablement-manager-gtm-collateral-content-systems-at-sitemate?ref=github) |
-| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> A.Team | Forward Deploy - Engineering Manager ... <br><sub>🌐 Unknown - Asia-Pacific * • APAC</sub> |  | 6d | [Apply](https://wagey.gg/jobs/cacf68bfb696ca05-forward-deploy-engineering-manager-core-platform-at-a-team?ref=github) |
+| <img src="https://wagey.gg/api/company-logo?name=_placeholder" alt="" height="16"> A.Team | Forward Deploy - Engineering Manager ... <br><sub>🌐 APAC</sub> |  | 6d | [Apply](https://wagey.gg/jobs/cacf68bfb696ca05-forward-deploy-engineering-manager-core-platform-at-a-team?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=90ea4e1c34845cee" alt="" height="16"> HighlightTA | Agentic/AI Engineer <br><sub>🌐 Remote - Brazil, New Zealand - Asia • APAC</sub> |  | 6d | [Apply](https://wagey.gg/jobs/a108763f8dd564eb-agentic-ai-engineer-at-highlightta?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=3d2cc63cff98bdd5" alt="" height="16"> Sprinto | Sprinto - Enterprise Customer Success... <br><sub>🌐 Remote - India • APAC</sub> |  | 6d | [Apply](https://wagey.gg/jobs/e7cb53e3d76a6dcc-sprinto-enterprise-customer-success-manager-at-sprinto?ref=github) |
 | <img src="https://wagey.gg/api/company-logo?id=co_4174b2745819774f" alt="" height="16"> QSIC | QSIC - Senior Software Engineer <br><sub>🌐 Remote - Australia • APAC</sub> |  | 6d | [Apply](https://wagey.gg/jobs/f5c7b2b231f4910d-qsic-senior-software-engineer-at-qsic?ref=github) |
@@ -518,7 +518,7 @@
 ## Other Regions
 
 - [**All regions (main list)**](https://github.com/7-of-9/wagey-gg-remote-tech-jobs)
-- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,375 jobs
+- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 6,374 jobs
 
 ---
 
