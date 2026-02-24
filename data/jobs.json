@@ -40051,7 +40051,7 @@
     "verifiedAt": "2026-02-24T20:35:50.933Z",
     "scrapedAt": "2026-02-17T22:45:11.983Z",
     "url": "https://wagey.gg/jobs/ed4e3106344176e9-product-manager-devops-at-okx?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "351e780a9cf74f8c",
@@ -40069,7 +40069,7 @@
     "verifiedAt": "2026-02-24T20:36:24.126Z",
     "scrapedAt": "2026-02-17T22:55:05.853Z",
     "url": "https://wagey.gg/jobs/351e780a9cf74f8c-product-manager-devops-at-okx?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "2010abeda3c4d2b9",
@@ -48172,6 +48172,26 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-24T21:03:41.566Z",
     "scrapedAt": "2026-02-24T21:03:39.643Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "97e737fc244a3bc0",
+    "title": "Sr. Mission Integration Engineer, Multinational Digital Infrastructure -",
+    "company": null,
+    "region": "APAC",
+    "salary": "$191k–$253k/year",
+    "salaryMin": 191000,
+    "salaryMax": 253000,
+    "skills": [
+      "Documentation",
+      "Lattice",
+      "WAU"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T22:40:08.690Z",
+    "scrapedAt": "2026-02-24T22:40:08.133Z",
     "url": null,
     "visibility": "teaser"
   }
