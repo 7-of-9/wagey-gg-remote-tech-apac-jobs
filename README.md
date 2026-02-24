@@ -4,7 +4,7 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 24-Feb-2026 12:13 UTC** | **2,267** | **298** | **2,267** |
+| **Asia-Pacific as of 24-Feb-2026 12:15 UTC** | **2,267** | **298** | **2,267** |
 
 ## Jobs
 
@@ -30,7 +30,7 @@
 | 🔒 ░░░░░░░░ | Channel Partner Sales Executive, Japan <br><sub>🏢 Home Based - APAC - Hybrid • APAC</sub> |  | 1h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Manager, Regulatory Compliance <br><sub>🏢 Seoul, Korea, South Korea • APAC</sub> |  | 1h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Frontend Engineer Lead <br><sub>🏢 Vietnam, Ho Chi Minh - Hybrid • APAC</sub> |  | 1h | [Pro](https://wagey.gg/pricing?ref=github) |
-| 🔒 ░░░░░░░░ | Enterprise Architect <br><sub>🏢 Bangalore, IN • APAC</sub> | $104k/year | 7h | [Pro](https://wagey.gg/pricing?ref=github) |
+| 🔒 ░░░░░░░░ | Enterprise Architect <br><sub>🏢 Bangalore, IN • APAC</sub> | $104k/year | 8h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Solutions Architect <br><sub>🌐 Remote - South Korea • APAC</sub> |  | 9h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Programmatic Manager <br><sub>🏢 Asia / Taiwan, Taipei - Hybrid • APAC</sub> |  | 9h | [Pro](https://wagey.gg/pricing?ref=github) |
 | 🔒 ░░░░░░░░ | Product Designer <br><sub>🏢 Taipei, Taiwan • APAC</sub> |  | 9h | [Pro](https://wagey.gg/pricing?ref=github) |
