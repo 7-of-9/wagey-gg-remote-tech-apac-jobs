@@ -47379,5 +47379,233 @@
     "scrapedAt": "2026-02-24T01:19:36.950Z",
     "url": null,
     "visibility": "teaser"
+  },
+  {
+    "id": "d912c699082f792c",
+    "title": "Accountant",
+    "company": null,
+    "region": "APAC",
+    "salary": "$104k/year",
+    "salaryMin": 104000,
+    "salaryMax": 104000,
+    "skills": [
+      "Reporting",
+      "Accounts Payable",
+      "Invoice Processing",
+      "Close"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:41:56.930Z",
+    "scrapedAt": "2026-02-24T02:41:56.310Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "c1b7bcd223709a69",
+    "title": "Senior Sales Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Linux",
+      "Kubernetes",
+      "Mentoring",
+      "Customer Success"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T02:42:19.310Z",
+    "scrapedAt": "2026-02-24T02:42:18.640Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "2cb34f0920c10670",
+    "title": "Research Engineer, Data (India)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-24T02:43:10.406Z",
+    "scrapedAt": "2026-02-24T02:43:10.060Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "4722db5911d16342",
+    "title": "Integration & Test Engineer (Software)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Data Analysis",
+      "Linux"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T02:45:06.973Z",
+    "scrapedAt": "2026-02-24T02:45:06.440Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "93313ce34ff1ea5d",
+    "title": "HR Business Partner",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Coaching",
+      "Government Relations",
+      "Change Management",
+      "Performance Management",
+      "APAC",
+      "Compensation Planning",
+      "Employee Relations",
+      "Miro",
+      "Reporting",
+      "Compliance Reporting",
+      "Documentation"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T02:47:28.460Z",
+    "scrapedAt": "2026-02-24T02:47:27.593Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "26d719c8a64d5e89",
+    "title": "AI Data Specialist",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Quality Assurance"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:47:38.616Z",
+    "scrapedAt": "2026-02-24T02:47:38.190Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "6acf5880aed280cf",
+    "title": "Design Lead at Douro Labs",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Adobe Creative Suite",
+      "Team Leadership",
+      "Brand Management",
+      "Product Marketing",
+      "Figma"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-24T02:49:58.230Z",
+    "scrapedAt": "2026-02-24T02:49:52.126Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e75a2cc3b086a37c",
+    "title": "Crypto.com - Senior Software Engineer (Golang/Ruby on Rails)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "Redis",
+      "Kafka",
+      "Documentation"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:55:01.926Z",
+    "scrapedAt": "2026-02-24T02:54:44.956Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "9e101209c8139458",
+    "title": "Product Designer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Figma",
+      "DEX"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:55:38.430Z",
+    "scrapedAt": "2026-02-24T02:55:22.470Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "91f6ab6ec228df13",
+    "title": "Programmatic Manager",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-24T02:57:57.173Z",
+    "scrapedAt": "2026-02-24T02:57:40.186Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "81b1a4eb6a29c345",
+    "title": "Solutions Architect",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "Learning & Development",
+      "Reporting",
+      "Talent Acquisition"
+    ],
+    "seniority": "principal",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-24T03:04:45.223Z",
+    "scrapedAt": "2026-02-24T03:04:44.660Z",
+    "url": null,
+    "visibility": "teaser"
   }
 ]
