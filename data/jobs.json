@@ -41890,7 +41890,7 @@
     "verifiedAt": "2026-02-26T08:49:19.753Z",
     "scrapedAt": "2026-02-19T17:25:52.666Z",
     "url": "https://wagey.gg/jobs/fa4365111a60bbac-limit-break-game-designer-episode-japan-at-limit-break?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "80ce285632dc4aeb",
@@ -41906,7 +41906,7 @@
     "verifiedAt": "2026-02-26T08:49:07.706Z",
     "scrapedAt": "2026-02-19T17:26:02.130Z",
     "url": "https://wagey.gg/jobs/80ce285632dc4aeb-limit-break-game-designer-mechanics-japan-at-limit-break?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "c50b126aaf8db2f2",
@@ -46887,7 +46887,7 @@
   {
     "id": "ba693809872fc798",
     "title": "Enterprise Account Executive - Japan Global Companies",
-    "company": null,
+    "company": "sonarsource",
     "region": "APAC",
     "salary": "$50k/year",
     "salaryMin": 50000,
@@ -46903,13 +46903,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T00:48:33.140Z",
     "scrapedAt": "2026-02-24T17:49:19.100Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ba693809872fc798-enterprise-account-executive-japan-global-companies-at-sonarsource?ref=github",
+    "visibility": "full"
   },
   {
     "id": "04cc795e3a6f0830",
     "title": "Account Executive, Mining (Australia)",
-    "company": null,
+    "company": "Everpure",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -46925,13 +46925,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T03:49:41.703Z",
     "scrapedAt": "2026-02-24T17:49:31.056Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/04cc795e3a6f0830-account-executive-mining-australia-at-everpure?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7cd9493c2413fb84",
     "title": "Distribution & Alliance Marketing Manager, APJ",
-    "company": null,
+    "company": "Everpure",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -46947,13 +46947,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T03:50:04.106Z",
     "scrapedAt": "2026-02-24T17:49:36.303Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7cd9493c2413fb84-distribution-alliance-marketing-manager-apj-at-everpure?ref=github",
+    "visibility": "full"
   },
   {
     "id": "7c0cfecb2e910029",
     "title": "Field Solutions Architect - Virtualization",
-    "company": null,
+    "company": "Everpure",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -46969,13 +46969,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T03:50:13.860Z",
     "scrapedAt": "2026-02-24T17:49:37.070Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/7c0cfecb2e910029-field-solutions-architect-virtualization-at-everpure?ref=github",
+    "visibility": "full"
   },
   {
     "id": "51e55cad9f049644",
     "title": "Territory Account Executive, Commercial (New Zealand)",
-    "company": null,
+    "company": "Everpure",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -46991,13 +46991,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T03:50:44.006Z",
     "scrapedAt": "2026-02-24T17:49:42.110Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/51e55cad9f049644-territory-account-executive-commercial-new-zealand-at-everpure?ref=github",
+    "visibility": "full"
   },
   {
     "id": "587034b63157cd4c",
     "title": "Onboarding Operations Specialist 1",
-    "company": null,
+    "company": "Twilio",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47013,13 +47013,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T03:50:55.743Z",
     "scrapedAt": "2026-02-24T17:49:43.170Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/587034b63157cd4c-onboarding-operations-specialist-1-at-twilio?ref=github",
+    "visibility": "full"
   },
   {
     "id": "543f260a82fd2ccd",
     "title": "Regional Marketing Manager",
-    "company": null,
+    "company": "xbowcareers",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47034,13 +47034,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T03:20:06.780Z",
     "scrapedAt": "2026-02-24T17:49:45.260Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/543f260a82fd2ccd-regional-marketing-manager-at-xbowcareers?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ff9cb59931f30a8b",
     "title": "Voice Talent Required - English India",
-    "company": null,
+    "company": "lilt-production",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47052,13 +47052,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T03:20:02.566Z",
     "scrapedAt": "2026-02-24T17:49:45.356Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ff9cb59931f30a8b-voice-talent-required-english-india-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "cfec690ef21f0b32",
     "title": "Voice Coach Required - Indian English",
-    "company": null,
+    "company": "lilt-production",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47071,13 +47071,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T03:20:15.493Z",
     "scrapedAt": "2026-02-24T17:49:45.896Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/cfec690ef21f0b32-voice-coach-required-indian-english-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "bfc8e55e056630a5",
     "title": "Voice Coach Required - Hindi",
-    "company": null,
+    "company": "lilt-production",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47091,8 +47091,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T03:20:15.940Z",
     "scrapedAt": "2026-02-24T17:49:46.216Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/bfc8e55e056630a5-voice-coach-required-hindi-at-lilt-production?ref=github",
+    "visibility": "full"
   },
   {
     "id": "9675082468cc09fc",
