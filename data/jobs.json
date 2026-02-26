@@ -46710,7 +46710,7 @@
     "verifiedAt": "2026-02-26T13:50:52.806Z",
     "scrapedAt": "2026-02-24T14:31:46.320Z",
     "url": "https://wagey.gg/jobs/2b7bda99f06cc61b-smart-working-solutions-cad-developer-remote-full-time-as204-at-smart-working-so?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "65e98157d7a9b53a",
@@ -46732,7 +46732,7 @@
     "verifiedAt": "2026-02-26T13:51:04.823Z",
     "scrapedAt": "2026-02-24T14:31:47.790Z",
     "url": "https://wagey.gg/jobs/65e98157d7a9b53a-smart-working-solutions-typescript-front-end-developer-remote-full-time-mr003-at?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "688653e14619dcd8",
@@ -46754,7 +46754,7 @@
     "verifiedAt": "2026-02-26T13:51:24.356Z",
     "scrapedAt": "2026-02-24T14:31:48.036Z",
     "url": "https://wagey.gg/jobs/688653e14619dcd8-smart-working-solutions-blazor-developer-remote-full-time-mr002-at-smart-working?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "4f000ba1e44e0fce",
@@ -46776,7 +46776,7 @@
     "verifiedAt": "2026-02-26T01:08:06.670Z",
     "scrapedAt": "2026-02-24T14:32:02.453Z",
     "url": "https://wagey.gg/jobs/4f000ba1e44e0fce-customer-success-technical-architect-at-confluent?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "4b092fee2b62dcc0",
@@ -46798,7 +46798,7 @@
     "verifiedAt": "2026-02-26T13:52:18.193Z",
     "scrapedAt": "2026-02-24T14:32:05.793Z",
     "url": "https://wagey.gg/jobs/4b092fee2b62dcc0-sprinto-customer-success-analyst-intern-at-sprinto?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "1a38655c77c1d812",
@@ -46816,7 +46816,7 @@
     "verifiedAt": "2026-02-26T01:08:38.480Z",
     "scrapedAt": "2026-02-24T14:32:07.130Z",
     "url": "https://wagey.gg/jobs/1a38655c77c1d812-voice-talent-required-english-australia-at-lilt-production?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "465a7e34904337eb",
@@ -46838,7 +46838,7 @@
     "verifiedAt": "2026-02-26T01:09:35.243Z",
     "scrapedAt": "2026-02-24T14:32:15.686Z",
     "url": "https://wagey.gg/jobs/465a7e34904337eb-senior-python-developer-at-real?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "dcd3b78061c49277",
@@ -46860,12 +46860,12 @@
     "verifiedAt": "2026-02-26T01:09:48.333Z",
     "scrapedAt": "2026-02-24T14:32:17.970Z",
     "url": "https://wagey.gg/jobs/dcd3b78061c49277-gohighlevel-specialist-at-moxie?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "3fac15f052f194f9",
     "title": "DevOps Engineer",
-    "company": null,
+    "company": "HighlightTA",
     "region": "APAC",
     "salary": "$70k–$80k/year",
     "salaryMin": 70000,
@@ -46881,8 +46881,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T03:19:43.903Z",
     "scrapedAt": "2026-02-24T16:34:38.816Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3fac15f052f194f9-devops-engineer-at-highlightta?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ba693809872fc798",
