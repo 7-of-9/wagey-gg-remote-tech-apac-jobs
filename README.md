@@ -4,7 +4,7 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 26-Feb-2026 05:11 UTC** | **2,304** | **301** | **0** |
+| **Asia-Pacific as of 26-Feb-2026 05:28 UTC** | **2,304** | **301** | **0** |
 
 > Upload your CV at [wagey.gg](https://wagey.gg?ref=github) for smart matching and one-click apply.
 
@@ -51,7 +51,7 @@
 | ░░░░░░░ | Crypto.com - Product Manager, Onboard... <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 17h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░ | ShopBack - Key Account Executive - Pa... <br><sub>🌐 Remote - Singapore, Singapore • APAC</sub> |  | 17h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░ | Lead Data Scientist - Payment Data Team <br><sub>🏢 Singapore • APAC</sub> |  | 17h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Integration Engineer <br><sub>🏢 Bangalore, Karnataka, India • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Integration Engineer <br><sub>🏢 Bangalore, Karnataka, India • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░ | Lead Global HR Systems & Operations <br><sub>🏢 Bangalore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░ | Product Support Engineer III <br><sub>🏢 Bangalore, IND - Hybrid • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░░ | Quality Assurance <br><sub>🏢 Bangalore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
@@ -60,12 +60,12 @@
 | ░░░░░░░░░░ | Sr Software Engineer I, Tech Lead <br><sub>🏢 Noida, Uttar Pradesh, India • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░ | Sprinto - Customer Success Analyst In... <br><sub>🌐 Remote - India • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░░░ | Binance - Android Engineer (Flutter, ... <br><sub>🌐 Remote - Asia / Taiwan, Taipei / Ho • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Software Engineer (AI Voice Ag... <br><sub>🏢 Sydney, New South Wales, Australia  • APAC</sub> | $229k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Backend Lead Engineer <br><sub>🌐 Remote - Gurgaon, India • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Xsolla - Middle/ Senior Frontend deve... <br><sub>🏢 Shanghai • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | DevOps Engineer <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Lead Software Engineer, Back E... <br><sub>🏢 Bangkok, Thailand - Hybrid • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Tech Lead <br><sub>🌐 Remote - India • APAC</sub> | $1k–$1k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Software Engineer (AI Voice Ag... <br><sub>🏢 Sydney, New South Wales, Australia  • APAC</sub> | $229k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Backend Lead Engineer <br><sub>🌐 Remote - Gurgaon, India • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Xsolla - Middle/ Senior Frontend deve... <br><sub>🏢 Shanghai • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | DevOps Engineer <br><sub>🏢 Singapore • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Lead Software Engineer, Back E... <br><sub>🏢 Bangkok, Thailand - Hybrid • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Tech Lead <br><sub>🌐 Remote - India • APAC</sub> | $1k–$1k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░ | Frontend Engineer - Compliance and Le... <br><sub>🏢 APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░ | Quality Systems Engineering Manager <br><sub>🌐 Remote - Japan • APAC</sub> | $140k–$160k/year | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░ | Senior Software Engineer <br><sub>🌐 Remote - Asia-Pacific * • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
@@ -527,6 +527,7 @@
 
 | Time (UTC) | Main | EMEA | APAC |
 |---|---|---|---|
+| 26-Feb-2026 05:11 UTC | [`2276d90`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/2276d902f8f2742a0a5fddaff040bbb565b5a420) 21,005 | [`23d7680`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/23d768076083b1e118006886d7bba9c85217e3d8) 6,913 | [`8babfed`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/8babfedbbe54cb7d0d7f282c25d6a6a13b0e3a04) 2,304 |
 | 26-Feb-2026 04:53 UTC | [`e460030`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/e46003054dbf280d617fd00d621624fb727de918) 21,005 | [`f391f8e`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/f391f8e2468089afe02c8ccf091e8cb9076484c5) 6,913 | [`e9962b0`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/e9962b0f17ae8281181da07499414ca45e36ac8e) 2,304 |
 | 26-Feb-2026 04:35 UTC | [`41e5823`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/41e5823a67c7a650d2cfc8ad25947451e4a19f8f) 21,024 | [`c369245`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/c36924598f207b318516a13f12ba1c33507c161f) 6,916 | [`514a4e4`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/514a4e4713c7150cb729a4bbccf09198f619eec4) 2,307 |
 | 26-Feb-2026 03:53 UTC | [`74b5a0d`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/74b5a0d2d582ba5686a0325173efa2f742d34a50) 21,068 | [`6b45b8a`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/6b45b8a55d5b10e5f5a68cf4e22d9063a16788d2) 6,928 | [`68fcb8e`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/68fcb8e837bc5944529f48c4e153ae34822f9f8a) 2,308 |
@@ -563,7 +564,6 @@
 | 23-Feb-2026 22:19 UTC | [`85e77b1`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/85e77b1fb46c1fb5999991e76f0ff664340d9e26) 19,962 | [`e8c2672`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/e8c26727ef917010fc67140432e2842953a8d5bc) 6,497 | [`6a7a551`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/6a7a551e71c0c248c0382f762e42b0eddca80f57) 2,225 |
 | 23-Feb-2026 21:18 UTC | [`9478d58`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/9478d581dc6e0fa8f36e9247428ce52e99f84c0c) 19,940 | [`d065c3a`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/d065c3a7cc16320b9c0408cbc7fc052c1bfa5a60) 6,487 | [`99ca0d0`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/99ca0d0a64cb8b4900421e2ed6c4b53ee85886bd) 2,222 |
 | 23-Feb-2026 20:14 UTC | [`86da7b6`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/86da7b6d6fdaff2e387620eb3691847cb1e44261) 19,934 | [`118b498`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/118b498a6af2ec560e0b4a92c3faa3ddfc706491) 6,486 | [`aeedd76`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/aeedd76566a75a7c9dec1c3863aef6aaf49b6cbe) 2,221 |
-| 23-Feb-2026 19:26 UTC | [`741a52d`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/741a52db22377c23bf01b3abb31ebd1bc9004c2f) 19,934 | [`dc1c54e`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/dc1c54e1893645a79fc7d929b0e11f9146917f1c) 6,486 | [`450296c`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/450296cf3201e2db383d652a1d8749263fba69ee) 2,221 |
 
 
 *Updated automatically every hour. Powered by [wagey.gg](https://wagey.gg?ref=github).*
