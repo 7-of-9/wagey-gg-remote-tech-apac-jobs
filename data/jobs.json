@@ -38715,7 +38715,7 @@
       "C++",
       "Python"
     ],
-    "seniority": null,
+    "seniority": "senior",
     "ats": "greenhouse",
     "verifiedAt": null,
     "scrapedAt": "2026-02-17T21:24:47.453Z",
@@ -38780,26 +38780,6 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-17T21:25:19.260Z",
     "url": "https://wagey.gg/jobs/1c59505ed33e2c8e-big-data-engineer-web3-data-platform-at-okx?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "7e5925599db53842",
-    "title": "Engineering Director, Liquidity Platform, Risk & Analytics",
-    "company": "OKX",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Java",
-      "Python",
-      "DEX"
-    ],
-    "seniority": "director",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-17T21:25:26.883Z",
-    "url": "https://wagey.gg/jobs/7e5925599db53842-engineering-director-liquidity-platform-risk-analytics-at-okx?ref=github",
     "visibility": "full"
   },
   {
@@ -45708,7 +45688,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:41:56.310Z",
     "url": "https://wagey.gg/jobs/d912c699082f792c-accountant-at-tala?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "c1b7bcd223709a69",
@@ -45730,7 +45710,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:42:18.640Z",
     "url": "https://wagey.gg/jobs/c1b7bcd223709a69-senior-sales-engineer-at-veeam-software?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "2cb34f0920c10670",
@@ -45746,7 +45726,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:43:10.060Z",
     "url": "https://wagey.gg/jobs/2cb34f0920c10670-research-engineer-data-india-at-cartesia?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "4722db5911d16342",
@@ -45765,7 +45745,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:45:06.440Z",
     "url": "https://wagey.gg/jobs/4722db5911d16342-integration-test-engineer-software-at-anduril-industries?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "26d719c8a64d5e89",
@@ -45783,7 +45763,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:47:38.190Z",
     "url": "https://wagey.gg/jobs/26d719c8a64d5e89-ai-data-specialist-at-rws-trainai?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "6acf5880aed280cf",
@@ -45805,7 +45785,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T02:49:52.126Z",
     "url": "https://wagey.gg/jobs/6acf5880aed280cf-design-lead-at-douro-labs-at-douro-labs?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "e75a2cc3b086a37c",
@@ -46721,48 +46701,6 @@
     "ats": "lever",
     "verifiedAt": null,
     "scrapedAt": "2026-02-24T21:03:13.933Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "02739ed22818161e",
-    "title": "Account Executive - ANZA",
-    "company": null,
-    "region": "APAC",
-    "salary": "$280k/year",
-    "salaryMin": 280000,
-    "salaryMax": 280000,
-    "skills": [
-      "Account Management",
-      "Records Management",
-      "Pipeline Management",
-      "Close"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-24T21:03:18.750Z",
-    "url": null,
-    "visibility": "teaser"
-  },
-  {
-    "id": "3daee7ed0c042a3f",
-    "title": "Account Executive - ANZA",
-    "company": null,
-    "region": "APAC",
-    "salary": "$280k/year",
-    "salaryMin": 280000,
-    "salaryMax": 280000,
-    "skills": [
-      "Account Management",
-      "Records Management",
-      "Close",
-      "Pipeline Management"
-    ],
-    "seniority": "mid",
-    "ats": "greenhouse",
-    "verifiedAt": null,
-    "scrapedAt": "2026-02-24T21:03:22.136Z",
     "url": null,
     "visibility": "teaser"
   },
