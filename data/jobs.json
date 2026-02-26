@@ -17581,28 +17581,6 @@
     "visibility": "full"
   },
   {
-    "id": "e380e8917e68",
-    "title": "Engineering Manager, Real Time Data Platform, Singapore",
-    "company": "Airwallex",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Databricks",
-      "Apache Spark",
-      "Kafka",
-      "ClickHouse",
-      "Prometheus"
-    ],
-    "seniority": "staff",
-    "ats": "ashby",
-    "verifiedAt": null,
-    "scrapedAt": "2026-01-28T07:21:50.070Z",
-    "url": "https://wagey.gg/jobs/e380e8917e68-engineering-manager-real-time-data-platform-singapore-at-airwallex?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "baa9c3f75e3b",
     "title": "Enterprise Account Executive, APAC",
     "company": "Rogo",
@@ -40093,7 +40071,7 @@
     "verifiedAt": null,
     "scrapedAt": "2026-02-19T04:03:58.923Z",
     "url": "https://wagey.gg/jobs/ad2257a794f1bf72-binance-at-binance?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a39b22df307c76ea",
@@ -48297,15 +48275,7 @@
       "FastAPI",
       "Flask",
       "Python",
-      "Django",
-      "SQL",
-      "Pyramid",
-      "GCP",
-      "AWS",
-      "Docker",
-      "Azure",
-      "Kubernetes",
-      "Documentation"
+      "Django"
     ],
     "seniority": "staff",
     "ats": "ashby",
@@ -48316,7 +48286,7 @@
   },
   {
     "id": "4aa008f19b33de9e",
-    "title": "Senior Data Engineer",
+    "title": "Brillio - Senior Data Engineer",
     "company": null,
     "region": "APAC",
     "salary": "",
@@ -48348,9 +48318,7 @@
       "Claude",
       "Google Workspace",
       "Jira",
-      "Confluence",
-      "Stakeholder Management",
-      "Cody"
+      "Confluence"
     ],
     "seniority": null,
     "ats": "ashby",
