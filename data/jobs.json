@@ -47097,7 +47097,7 @@
   {
     "id": "9675082468cc09fc",
     "title": "Product Manager",
-    "company": null,
+    "company": "doola",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47113,13 +47113,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-26T02:29:55.136Z",
     "scrapedAt": "2026-02-24T21:03:13.933Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9675082468cc09fc-product-manager-at-doola?ref=github",
+    "visibility": "full"
   },
   {
     "id": "6be244536c069bc0",
     "title": "HR Generalist",
-    "company": null,
+    "company": "Softermii",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47135,13 +47135,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T04:37:33.753Z",
     "scrapedAt": "2026-02-24T21:03:26.570Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/6be244536c069bc0-hr-generalist-at-softermii?ref=github",
+    "visibility": "full"
   },
   {
     "id": "d20771ce1e3f7b7e",
     "title": "Product Marketing Executive",
-    "company": null,
+    "company": "thought-machine",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47157,13 +47157,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T04:18:24.393Z",
     "scrapedAt": "2026-02-24T21:03:34.160Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/d20771ce1e3f7b7e-product-marketing-executive-at-thought-machine?ref=github",
+    "visibility": "full"
   },
   {
     "id": "f540912df8341988",
     "title": "Procurement Analyst",
-    "company": null,
+    "company": "vultr",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47179,13 +47179,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T04:18:45.363Z",
     "scrapedAt": "2026-02-24T21:03:37.480Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/f540912df8341988-procurement-analyst-at-vultr?ref=github",
+    "visibility": "full"
   },
   {
     "id": "d36349785a9b2df3",
     "title": "Customer Success Manager ",
-    "company": null,
+    "company": "allium",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47201,8 +47201,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T04:19:03.636Z",
     "scrapedAt": "2026-02-24T21:03:39.643Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/d36349785a9b2df3-customer-success-manager-at-allium?ref=github",
+    "visibility": "full"
   },
   {
     "id": "97e737fc244a3bc0",
