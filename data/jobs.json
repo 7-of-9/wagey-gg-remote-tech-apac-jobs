@@ -48917,5 +48917,56 @@
     "scrapedAt": "2026-02-25T18:09:13.873Z",
     "url": null,
     "visibility": "teaser"
+  },
+  {
+    "id": "3a8f8e193c382274",
+    "title": "Strategic Account Manager - GSI Sales",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Account Management",
+      "Prospecting",
+      "Close",
+      "Salesforce"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": null,
+    "scrapedAt": "2026-02-26T00:31:12.443Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "75500458e40d1432",
+    "title": "Customer Lifecycle Marketing Analyst",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Tableau",
+      "Looker",
+      "Dashboard Creation",
+      "SQL",
+      "Snowflake",
+      "Excel",
+      "Databricks",
+      "Segment",
+      "Reporting",
+      "Product Marketing",
+      "Marketo",
+      "Intercom"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": null,
+    "scrapedAt": "2026-02-26T00:31:19.843Z",
+    "url": null,
+    "visibility": "teaser"
   }
 ]
