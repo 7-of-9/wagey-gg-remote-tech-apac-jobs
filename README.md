@@ -4,14 +4,14 @@
 
 | | Jobs | With Salary | Verified |
 |--|------|-------------|----------|
-| **Asia-Pacific as of 27-Feb-2026 04:34 UTC** | **2,415** | **317** | **2,415** |
+| **Asia-Pacific as of 27-Feb-2026 05:24 UTC** | **2,415** | **317** | **2,415** |
 
 > Upload your CV at [wagey.gg](https://wagey.gg?ref=github) for smart matching and one-click apply.
 
 ## Other Regions
 
 - [**All regions (main list)**](https://github.com/7-of-9/wagey-gg-remote-tech-jobs)
-- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 7,257 jobs
+- [**Europe & Middle East**](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs) — 7,253 jobs
 
 ---
 
@@ -19,77 +19,77 @@
 
 | Company | Role | Salary USD | Age | |
 |---------|------|------------|-----|---|
-| ░░░░░░░░░ | Software Engineer (SG) <br><sub>🏢 Singapore • APAC</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Business Development Manager  <br><sub>🏢 Asia - Remote - Hybrid • APAC</sub> |  | 1h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Solutions Engineer <br><sub>🌐 Remote - India • APAC</sub> |  | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Associate UX Designer <br><sub>🌐 Remote - India • APAC</sub> |  | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Associate UX Designer <br><sub>🌐 Remote - India • APAC</sub> |  | 3h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Growth Engineer (Data Systems) <br><sub>🏢 Hong Kong • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Data Engineer <br><sub>🏢 Gurugram, Haryana, India; Noida, Ut • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Client Services Analyst III <br><sub>🌐 Remote - Noida, Uttar Pradesh, Indi • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Marketing Operations Specialist <br><sub>🏢 Bangalore • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Manager - Capacity and Workforce Plan... <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Manager - Operations <br><sub>🏢 Bangalore • APAC</sub> | $104k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Sr Manager <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Manager <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | SOC Analyst III <br><sub>🏢 Noida, Uttar Pradesh, India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Institutional Sales Manager, Head of ... <br><sub>🏢 Hong Kong • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Consultant II <br><sub>🏢 Noida, Uttar Pradesh, India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Customer Support Specialist - APAC <br><sub>🏢 Mumbai • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Talent Partner (Global Recruiting) <br><sub>🏢 Manila, Philippines - Hybrid • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Database Support Engineer - APAC <br><sub>🌐 Remote - India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Senior Sales Trader, APAC <br><sub>🌐 Remote - APAC • APAC</sub> | $104k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Technology Lead - E-Commerce <br><sub>🌐 Remote - India • APAC</sub> | $520k/year | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Recruiter (Singapore) <br><sub>🏢 Singapore - Hybrid • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Staff Product Manager, AI Identity & ... <br><sub>🌐 Remote - Delhi, India - Remote • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Ruby on Rails Engineer (Remote... <br><sub>🌐 Remote - India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Lead Software Engineer (Remote, Full-... <br><sub>🌐 Remote - India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Account Manager (Mandarin Spea... <br><sub>🏢 Singapore • APAC</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | ServiceNow Platform Engineer (Remote,... <br><sub>🌐 Remote - India • APAC</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Staff Frontend Engineer <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Lead Engineer, Engineering Productivity <br><sub>🌐 Remote - Sydney, NSW, Australia • APAC</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Software Engineer <br><sub>🏢 Bengaluru • APAC</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | (Senior) Product Manager, Futures Fro... <br><sub>🏢 Taiwan, Taipei • APAC</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Staff Software Engineer - Frontend <br><sub>🏢 Hyderabad • APAC</sub> |  | 14h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Technical Support Consultant <br><sub>🏢 Singapore • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ |  Manager - Capacity and Workforce Pla... <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Shopify Integration Engineer (... <br><sub>🌐 Remote - India, Remote • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Engineering Manager (Pakistan) <br><sub>🌐 Remote - Pakistan • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Senior Mobile Engineer (Pakistan) <br><sub>🌐 Remote - Pakistan • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - Australia (remote) • APAC</sub> | $208k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - Singapore (remote) • APAC</sub> | $208k/year | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Sales Development Representative (Out... <br><sub>🏢 Singapore - Hybrid • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Content Moderation Quality Specialist <br><sub>🏢 Malaysia; Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Software Engineer-Test Frameworks & A... <br><sub>🌐 Remote - Almaty, Almaty, Kazakhstan • APAC</sub> | $146k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Global Relationship Manager <br><sub>🏢 Hong Kong • APAC</sub> | $146k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Payroll Support Specialist (CN) <br><sub>🌐 Remote - China • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Product Operations, Token Listing <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Senior Security Engineer, Product Sec... <br><sub>🌐 Remote - IND • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Senior Database Engineer III <br><sub>🏢 India- Remote - Hybrid • APAC</sub> | $17k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | QA Engineer II <br><sub>🌐 Remote - India - Remote • APAC</sub> | $17k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Manager - Operations (Global Revenue ... <br><sub>🏢 Bangalore • APAC</sub> | $104k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Quantitative Developer <br><sub>🏢 Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Smart Working Solutions - CAD Develop... <br><sub>🌐 Remote - Pakistan / Faisalabad / Is • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Release Engineer - Data Plane <br><sub>🌐 Remote - Australia(remote) • APAC</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Release Engineer - Data Plane <br><sub>🌐 Remote - Singapore(remote) • APAC</sub> | $208k/year | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Compliance Executive <br><sub>🏢 Singapore - Hybrid • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Engagement Manager, APAC <br><sub>🏢 Australia • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Smart Working Solutions - Senior Soft... <br><sub>🌐 Remote - India / Bangalore / Cochin • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Data Scientist, Sales Analytics <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Remote Sales Development Representati... <br><sub>🏢 Australia • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░ | Principal Architect, Data Knowledge P... <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Staff Data Scientist <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Enterprise Customer Success Manager <br><sub>🏢 Hybrid - Asia-Pacific * • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Outreach - Staff Machine Learning Eng... <br><sub>🏢 Hyderabad - Hybrid • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Crypto.com - Assistant Manager, Data ... <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Crypto.com - Product Manager, Onboard... <br><sub>🏢 Auckland, New Zealand / Melbourne,  • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Crypto.com - Senior Software Developer <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Binance - Senior Product Operations, ... <br><sub>🌐 Remote - Hong Kong / Taiwan, Taipei • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Binance - Senior Golang Developer (Cl... <br><sub>🌐 Remote - APAC • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Sales Development Representative <br><sub>🏢 Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Customer Product Engineer, APAC <br><sub>🏢 Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Growth Engineer (Data Systems) <br><sub>🏢 Singapore • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Institutional Sales Manager, Head of ... <br><sub>🏢 Hong Kong • APAC</sub> |  | 18h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Software Engineer (SG) <br><sub>🏢 Singapore • APAC</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Business Development Manager  <br><sub>🏢 Asia - Remote - Hybrid • APAC</sub> |  | 2h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Solutions Engineer <br><sub>🌐 Remote - India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Associate UX Designer <br><sub>🌐 Remote - India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Associate UX Designer <br><sub>🌐 Remote - India • APAC</sub> |  | 4h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Growth Engineer (Data Systems) <br><sub>🏢 Hong Kong • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Data Engineer <br><sub>🏢 Gurugram, Haryana, India; Noida, Ut • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Client Services Analyst III <br><sub>🌐 Remote - Noida, Uttar Pradesh, Indi • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Marketing Operations Specialist <br><sub>🏢 Bangalore • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Manager - Capacity and Workforce Plan... <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Manager - Operations <br><sub>🏢 Bangalore • APAC</sub> | $104k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Sr Manager <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Manager <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | SOC Analyst III <br><sub>🏢 Noida, Uttar Pradesh, India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Institutional Sales Manager, Head of ... <br><sub>🏢 Hong Kong • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Consultant II <br><sub>🏢 Noida, Uttar Pradesh, India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Customer Support Specialist - APAC <br><sub>🏢 Mumbai • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Talent Partner (Global Recruiting) <br><sub>🏢 Manila, Philippines - Hybrid • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Database Support Engineer - APAC <br><sub>🌐 Remote - India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Senior Sales Trader, APAC <br><sub>🌐 Remote - APAC • APAC</sub> | $104k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Technology Lead - E-Commerce <br><sub>🌐 Remote - India • APAC</sub> | $520k/year | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Recruiter (Singapore) <br><sub>🏢 Singapore - Hybrid • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Staff Product Manager, AI Identity & ... <br><sub>🌐 Remote - Delhi, India - Remote • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Ruby on Rails Engineer (Remote... <br><sub>🌐 Remote - India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Lead Software Engineer (Remote, Full-... <br><sub>🌐 Remote - India • APAC</sub> |  | 5h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Account Manager (Mandarin Spea... <br><sub>🏢 Singapore • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | ServiceNow Platform Engineer (Remote,... <br><sub>🌐 Remote - India • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Staff Frontend Engineer <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Lead Engineer, Engineering Productivity <br><sub>🌐 Remote - Sydney, NSW, Australia • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Software Engineer <br><sub>🏢 Bengaluru • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | (Senior) Product Manager, Futures Fro... <br><sub>🏢 Taiwan, Taipei • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Staff Software Engineer - Frontend <br><sub>🏢 Hyderabad • APAC</sub> |  | 15h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Technical Support Consultant <br><sub>🏢 Singapore • APAC</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ |  Manager - Capacity and Workforce Pla... <br><sub>🏢 Gurugram, Haryana, India • APAC</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Shopify Integration Engineer (... <br><sub>🌐 Remote - India, Remote • APAC</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Engineering Manager (Pakistan) <br><sub>🌐 Remote - Pakistan • APAC</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Senior Mobile Engineer (Pakistan) <br><sub>🌐 Remote - Pakistan • APAC</sub> |  | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - Australia (remote) • APAC</sub> | $208k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Cloud Performance Engineer <br><sub>🌐 Remote - Singapore (remote) • APAC</sub> | $208k/year | 16h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Sales Development Representative (Out... <br><sub>🏢 Singapore - Hybrid • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Content Moderation Quality Specialist <br><sub>🏢 Malaysia; Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Software Engineer-Test Frameworks & A... <br><sub>🌐 Remote - Almaty, Almaty, Kazakhstan • APAC</sub> | $146k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Global Relationship Manager <br><sub>🏢 Hong Kong • APAC</sub> | $146k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Payroll Support Specialist (CN) <br><sub>🌐 Remote - China • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Product Operations, Token Listing <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Senior Security Engineer, Product Sec... <br><sub>🌐 Remote - IND • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Senior Database Engineer III <br><sub>🏢 India- Remote - Hybrid • APAC</sub> | $17k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | QA Engineer II <br><sub>🌐 Remote - India - Remote • APAC</sub> | $17k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Manager - Operations (Global Revenue ... <br><sub>🏢 Bangalore • APAC</sub> | $104k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Quantitative Developer <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Smart Working Solutions - CAD Develop... <br><sub>🌐 Remote - Pakistan / Faisalabad / Is • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Release Engineer - Data Plane <br><sub>🌐 Remote - Australia(remote) • APAC</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Release Engineer - Data Plane <br><sub>🌐 Remote - Singapore(remote) • APAC</sub> | $208k/year | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Compliance Executive <br><sub>🏢 Singapore - Hybrid • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Engagement Manager, APAC <br><sub>🏢 Australia • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Smart Working Solutions - Senior Soft... <br><sub>🌐 Remote - India / Bangalore / Cochin • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Data Scientist, Sales Analytics <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Remote Sales Development Representati... <br><sub>🏢 Australia • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░ | Principal Architect, Data Knowledge P... <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Staff Data Scientist <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Enterprise Customer Success Manager <br><sub>🏢 Hybrid - Asia-Pacific * • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Outreach - Staff Machine Learning Eng... <br><sub>🏢 Hyderabad - Hybrid • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Crypto.com - Assistant Manager, Data ... <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Crypto.com - Product Manager, Onboard... <br><sub>🏢 Auckland, New Zealand / Melbourne,  • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Crypto.com - Senior Software Developer <br><sub>🏢 Hong Kong, Hong Kong SAR • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Binance - Senior Product Operations, ... <br><sub>🌐 Remote - Hong Kong / Taiwan, Taipei • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Binance - Senior Golang Developer (Cl... <br><sub>🌐 Remote - APAC • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Sales Development Representative <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Customer Product Engineer, APAC <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Growth Engineer (Data Systems) <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Institutional Sales Manager, Head of ... <br><sub>🏢 Hong Kong • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░ | Staff Software Engineer - Backend & D... <br><sub>🌐 Remote - India • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░ | Senior Data Engineer (Perp DEX) <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░ | Staff Software Engineer AI <br><sub>🏢 Chennai or Remote, India - Hybrid • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
@@ -98,22 +98,22 @@
 | ░░░░░░░ | Principal Forward Deployed Software E... <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░░░ | Senior Machine Learning Engineer <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░ | Engineering Manager (Elasticsearch, B... <br><sub>🌐 Remote - India • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior Forward Deployed Software Engi... <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░░ | Principal Machine Learning Engineer <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Technical Writer <br><sub>🏢 Sydney, New South Wales, Australia • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Senior DevOps Engineer <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Back-End  Engineer  (Java) <br><sub>🌐 Remote - Shanghai (Office), or Chin • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Backend  Engineer (AI Platform) <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Senior Quantitative Developer <br><sub>🏢 Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░ | Senior Software Engineer, Backend <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░░ | Senior Manager - Billing and Revenue ... <br><sub>🌐 Remote - India • APAC</sub> |  | 19h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Customer Operations Specialist (Marke... <br><sub>🏢 Singapore • APAC</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░░░ | Applications Engineer 2 <br><sub>🌐 Remote - India • APAC</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░ | Sr.Staff Accountant <br><sub>🌐 Remote - APAC (remote) • APAC</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Finance System Lead, Group Consolidation <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░░░░ | Ad Ops Account Manager <br><sub>🌐 Remote - India / Remote • APAC</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░░ | Rackspace - AI Model Serving Specialist <br><sub>🌐 India - Remote - Hybrid • APAC</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
-| ░░░░ | Teikametrics - Strategic Growth Accou... <br><sub>🌐 Remote - India / Remote • APAC</sub> |  | 21h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior Forward Deployed Software Engi... <br><sub>🏢 Singapore • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░░ | Principal Machine Learning Engineer <br><sub>🏢 Singapore • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Technical Writer <br><sub>🏢 Sydney, New South Wales, Australia • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Senior DevOps Engineer <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Back-End  Engineer  (Java) <br><sub>🌐 Remote - Shanghai (Office), or Chin • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Backend  Engineer (AI Platform) <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Senior Quantitative Developer <br><sub>🏢 Singapore • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░ | Senior Software Engineer, Backend <br><sub>🏢 Singapore, Singapore, Singapore • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░░ | Senior Manager - Billing and Revenue ... <br><sub>🌐 Remote - India • APAC</sub> |  | 20h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Customer Operations Specialist (Marke... <br><sub>🏢 Singapore • APAC</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░░░ | Applications Engineer 2 <br><sub>🌐 Remote - India • APAC</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░ | Sr.Staff Accountant <br><sub>🌐 Remote - APAC (remote) • APAC</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Finance System Lead, Group Consolidation <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░░░░ | Ad Ops Account Manager <br><sub>🌐 Remote - India / Remote • APAC</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░░ | Rackspace - AI Model Serving Specialist <br><sub>🌐 India - Remote - Hybrid • APAC</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
+| ░░░░ | Teikametrics - Strategic Growth Accou... <br><sub>🌐 Remote - India / Remote • APAC</sub> |  | 22h | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░ | Senior Software Engineer, JavaScript/... <br><sub>🌐 Remote - Jakarta , Jakarta , Indone • APAC</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░ | Senior Backend  Engineer (AI Applicat... <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
 | ░░░░░░░░░░░░ | Backend Engineer <br><sub>🏢 Singapore, Singapore • APAC</sub> |  | 1d | 🔒 [Pro](https://wagey.gg/pricing?ref=github) |
@@ -529,6 +529,7 @@ Last 37 updates. Full history in each repo's [commit log](https://github.com/7-o
 
 | Time (UTC) | Main | EMEA | APAC |
 |---|---|---|---|
+| 27-Feb-2026 04:34 UTC | [`ce0970a`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/ce0970ac2268e5ac556033159015a98dec2ede18) 22,114 | [`5eebc06`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/5eebc06a5f70d868f58bdb9ccb35096b0a55cfcd) 7,257 | [`af07cd0`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/af07cd0452320a88a7c95f25d5ba9bd5a70cc422) 2,415 |
 | 27-Feb-2026 03:52 UTC | [`c146660`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/c14666093d46bf2de98a52af02c768ef5506dadb) 22,101 | [`c83d163`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/c83d163f54efcac527b1a4e5c7e8c974e03d2728) 7,251 | [`03f7893`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/03f78930aeaa708ccad5b381c1d2034e9b97f552) 2,415 |
 | 27-Feb-2026 02:58 UTC | [`16a20ea`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/16a20ead0019782eb87ec5d49916d826f02c6d2e) 22,100 | [`f42c829`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/f42c829c56924e7816c504a25782a4089da56c2b) 7,257 | [`9bf1668`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/9bf16688749d7103eca0f2f63107fc244c1df920) 2,413 |
 | 27-Feb-2026 01:34 UTC | [`7163aee`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/7163aee1bf695df3494e8e2991eb91b0ae841b03) 22,137 | [`7775694`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/777569436d2a79154db2ee9adc781be706fd5f0c) 7,262 | [`23fa411`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/23fa4115bc59eef1265e401d1fe05520b09d995d) 2,414 |
@@ -565,7 +566,6 @@ Last 37 updates. Full history in each repo's [commit log](https://github.com/7-o
 | 25-Feb-2026 19:31 UTC | [`8031f33`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/8031f33c088ca15862904b99b00911a3bde2131e) 21,243 | [`854434d`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/854434d838832f18b2ab449c169725b5a24f9b71) 6,996 | [`97e663e`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/97e663e46cb197b9a36449d39a85f4d3631a8aa8) 2,332 |
 | 25-Feb-2026 05:35 UTC | [`9fbcce2`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/9fbcce2bcb759733207055d13cd5775cd0929db6) 20,473 | [`90842b0`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/90842b0a34730ab43a8bc9e5996c97c90331bdbe) 6,656 | [`0b69d6a`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/0b69d6abfc40bf9d9f71a207916e15728d60b268) 2,279 |
 | 25-Feb-2026 04:38 UTC | [`b788c4e`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/b788c4e584ea4d563733a8b0b86225a2007fd448) 20,473 | [`40529fc`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/40529fc2d223922ff9c7276453ae8a2462404f58) 6,656 | [`50ac1c7`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/50ac1c7217c4a21f8a7aab71a93383bd55f80034) 2,279 |
-| 25-Feb-2026 03:03 UTC | [`2335b5d`](https://github.com/7-of-9/wagey-gg-remote-tech-jobs/commit/2335b5dc76a532f39602c51475ee76a4ebe0d071) 20,474 | [`dc01961`](https://github.com/7-of-9/wagey-gg-remote-tech-emea-jobs/commit/dc01961bc3c9ec6d9dbc00388611497745138818) 6,656 | [`cea0540`](https://github.com/7-of-9/wagey-gg-remote-tech-apac-jobs/commit/cea05409179a3c51b6a9017369a9d687329ff654) 2,279 |
 
 
 *Updated automatically every hour. Powered by [wagey.gg](https://wagey.gg?ref=github).*
