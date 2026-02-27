@@ -42306,7 +42306,7 @@
     "verifiedAt": "2026-02-26T08:51:08.470Z",
     "scrapedAt": "2026-02-20T00:26:35.646Z",
     "url": "https://wagey.gg/jobs/9511f82140a00a7c-binance-senior-product-manager-futures-backend-at-binance?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "fb3a7a8e0e941c02",
@@ -42328,7 +42328,7 @@
     "verifiedAt": "2026-02-26T03:38:15.150Z",
     "scrapedAt": "2026-02-20T01:31:49.770Z",
     "url": "https://wagey.gg/jobs/fb3a7a8e0e941c02-senior-associate-regulatory-compliance-at-airwallex?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "593f3b529dfbd97d",
@@ -47222,7 +47222,7 @@
     "verifiedAt": "2026-02-26T04:39:40.030Z",
     "scrapedAt": "2026-02-24T22:40:08.133Z",
     "url": "https://wagey.gg/jobs/97e737fc244a3bc0-sr-mission-integration-engineer-multinational-digital-infrastructure-at-anduril-?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "d6b4ff895f00db81",
@@ -51148,6 +51148,80 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-27T00:00:55.910Z",
     "scrapedAt": "2026-02-27T00:00:54.856Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "9375bf2240c5a38f",
+    "title": "Associate UX Designer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Adobe Creative Suite",
+      "Figma",
+      "Sketch",
+      "Microsoft Word",
+      "Excel",
+      "ACCA",
+      "Project Coordination"
+    ],
+    "seniority": "junior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:35:59.460Z",
+    "scrapedAt": "2026-02-27T00:35:58.770Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a82f0b5b8340f523",
+    "title": "Associate UX Designer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Adobe Creative Suite",
+      "Figma",
+      "Sketch",
+      "Microsoft Word",
+      "Excel",
+      "ACCA",
+      "Project Coordination"
+    ],
+    "seniority": "junior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T00:36:17.376Z",
+    "scrapedAt": "2026-02-27T00:36:16.680Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "23c1ceb7325ef512",
+    "title": "Senior Solutions Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Stakeholder Management",
+      "Prospecting",
+      "Product Marketing",
+      "CSM",
+      "GCP",
+      "AWS",
+      "Azure",
+      "Objection Handling",
+      "Mid-Market"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T00:37:41.686Z",
+    "scrapedAt": "2026-02-27T00:37:40.770Z",
     "url": null,
     "visibility": "teaser"
   }
