@@ -1541,28 +1541,6 @@
     "visibility": "full"
   },
   {
-    "id": "0f70e96d4354",
-    "title": "Senior Software Engineer, Frontend",
-    "company": "Airwallex",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "React",
-      "TypeScript",
-      "Product Marketing",
-      "Brex",
-      "Rippling"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T12:14:42.806Z",
-    "scrapedAt": "2026-01-10T04:55:40.483Z",
-    "url": "https://wagey.gg/jobs/0f70e96d4354-senior-software-engineer-frontend-at-airwallex?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "3383e8e69c3e",
     "title": "Senior/ Staff Software Engineer, Core Banking",
     "company": "Airwallex",
@@ -21081,28 +21059,6 @@
     "visibility": "full"
   },
   {
-    "id": "19f23aa36c2b",
-    "title": "People Operations Specialist",
-    "company": "Heidi",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "ANZ",
-      "Close",
-      "Process Optimization",
-      "Regulatory Compliance",
-      "Documentation"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T11:39:24.880Z",
-    "scrapedAt": "2026-02-02T13:33:55.490Z",
-    "url": "https://wagey.gg/jobs/19f23aa36c2b-people-operations-specialist-at-heidi?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "232c325a2e04",
     "title": "Apply Digital - Senior Full-Stack Developer",
     "company": "Apply Digital",
@@ -30512,24 +30468,6 @@
     "verifiedAt": "2026-02-26T13:17:45.430Z",
     "scrapedAt": "2026-02-15T14:21:32.520Z",
     "url": "https://wagey.gg/jobs/3d2d9e0cd9c988eb-director-merchandising-product-development-apac-at-authentic-brands-group?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "c479068f01cee03b",
-    "title": "Outbound Sales Representative",
-    "company": "barkbus",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Express"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T11:43:13.103Z",
-    "scrapedAt": "2026-02-15T14:41:00.543Z",
-    "url": "https://wagey.gg/jobs/c479068f01cee03b-outbound-sales-representative-at-barkbus?ref=github",
     "visibility": "full"
   },
   {
@@ -42697,7 +42635,7 @@
     "verifiedAt": "2026-02-27T02:31:21.310Z",
     "scrapedAt": "2026-02-20T19:53:55.933Z",
     "url": "https://wagey.gg/jobs/8369e152d7dea63b-associate-support-engineer-at-mariadb-plc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "114a41c312f003ef",
@@ -42719,7 +42657,7 @@
     "verifiedAt": "2026-02-27T00:41:58.033Z",
     "scrapedAt": "2026-02-20T19:57:28.316Z",
     "url": "https://wagey.gg/jobs/114a41c312f003ef-manager-sales-assist-at-zapier?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a017c54d7781de06",
@@ -42741,7 +42679,7 @@
     "verifiedAt": "2026-02-27T02:35:17.750Z",
     "scrapedAt": "2026-02-20T20:04:13.923Z",
     "url": "https://wagey.gg/jobs/a017c54d7781de06-cloud-back-end-engineer-at-capstone-integrated-solutions?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "741a771ca4a31910",
@@ -52599,6 +52537,54 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T18:37:10.623Z",
     "scrapedAt": "2026-02-27T18:37:10.010Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8090c93db1e750dc",
+    "title": "Engineering Manager",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting",
+      "Documentation",
+      "Team Leadership",
+      "Learning & Development",
+      "Java",
+      "Spring Boot",
+      "Project Planning",
+      "Release Management",
+      "Team Management",
+      "Risk Management",
+      "Sprint Planning",
+      "Resource Allocation",
+      "Stakeholder Management",
+      "Mentoring",
+      "Performance Reviews"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T19:28:26.956Z",
+    "scrapedAt": "2026-02-27T19:28:24.376Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "816401876ab88b2a",
+    "title": "Senior Recruiter (Remote India)",
+    "company": null,
+    "region": "APAC",
+    "salary": "$15k–$25k/year",
+    "salaryMin": 15000,
+    "salaryMax": 25000,
+    "skills": [],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T19:28:36.850Z",
+    "scrapedAt": "2026-02-27T19:28:35.770Z",
     "url": null,
     "visibility": "teaser"
   }
