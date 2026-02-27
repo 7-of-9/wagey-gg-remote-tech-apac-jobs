@@ -51203,5 +51203,53 @@
     "scrapedAt": "2026-02-27T00:37:40.770Z",
     "url": null,
     "visibility": "teaser"
+  },
+  {
+    "id": "612cec91af60895a",
+    "title": "Business Development Manager ",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Business Development",
+      "Mandarin",
+      "Oracle"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T03:05:06.200Z",
+    "scrapedAt": "2026-02-27T03:05:04.473Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "d3859f8ec2c426de",
+    "title": "Software Engineer (SG)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "Python",
+      "Angular",
+      "React",
+      "NoSQL",
+      "Git",
+      "SQL",
+      "Full Stack",
+      "Documentation",
+      "Sentry",
+      "Datadog"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T03:05:07.880Z",
+    "scrapedAt": "2026-02-27T03:05:06.943Z",
+    "url": null,
+    "visibility": "teaser"
   }
 ]
