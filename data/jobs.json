@@ -31013,28 +31013,6 @@
     "visibility": "full"
   },
   {
-    "id": "75d0f6076555e974",
-    "title": "Vice President Sales - APJ ",
-    "company": "LivePerson",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Documentation",
-      "MBA",
-      "Salesforce",
-      "Pipeline Management",
-      "Mid-Market"
-    ],
-    "seniority": "vp",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T02:50:16.863Z",
-    "scrapedAt": "2026-02-16T07:22:18.276Z",
-    "url": "https://wagey.gg/jobs/75d0f6076555e974-vice-president-sales-apj-at-liveperson?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "a715f30e80d3d6a1",
     "title": "Associate Support Engineer (APAC)",
     "company": "MariaDB plc",
@@ -33863,27 +33841,6 @@
     "verifiedAt": "2026-02-26T03:10:43.320Z",
     "scrapedAt": "2026-02-16T13:40:50.873Z",
     "url": "https://wagey.gg/jobs/20783dcbc6f51f1f-integration-engineer-latam-remote-at-singular?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "fdb7315cb62a1e37",
-    "title": "Customer Solution Consultant - Thai & English",
-    "company": "siteminder",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Team Management",
-      "Stakeholder Management",
-      "Conflict Resolution",
-      "Thai"
-    ],
-    "seniority": null,
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T03:10:56.173Z",
-    "scrapedAt": "2026-02-16T13:40:59.273Z",
-    "url": "https://wagey.gg/jobs/fdb7315cb62a1e37-customer-solution-consultant-thai-english-at-siteminder?ref=github",
     "visibility": "full"
   },
   {
@@ -43341,28 +43298,6 @@
     "visibility": "fomo"
   },
   {
-    "id": "b1ce87c01954d334",
-    "title": "Onboarding KYC Lead (UK Market)",
-    "company": "Careers at Tide",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Risk Management",
-      "Risk Assessment",
-      "Governance",
-      "Learning & Development",
-      "Due Diligence"
-    ],
-    "seniority": "staff",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T02:55:21.046Z",
-    "scrapedAt": "2026-02-20T23:24:43.596Z",
-    "url": "https://wagey.gg/jobs/b1ce87c01954d334-onboarding-kyc-lead-uk-market-at-careers-at-tide?ref=github",
-    "visibility": "fomo"
-  },
-  {
     "id": "a621f96a16f96085",
     "title": "Renewal Manager ",
     "company": "Black Duck Software, Inc.",
@@ -48158,7 +48093,7 @@
     "verifiedAt": "2026-02-27T03:29:28.916Z",
     "scrapedAt": "2026-02-25T14:57:21.830Z",
     "url": "https://wagey.gg/jobs/9fc629f774b3e7fb-sr-technical-writer-at-rackspace?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "474185850f95da14",
@@ -48180,7 +48115,7 @@
     "verifiedAt": "2026-02-27T03:29:52.786Z",
     "scrapedAt": "2026-02-25T14:57:23.963Z",
     "url": "https://wagey.gg/jobs/474185850f95da14-smarsh-global-services-operations-analyst-at-smarsh?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "52183d2ac6e8ac35",
@@ -48202,7 +48137,7 @@
     "verifiedAt": "2026-02-26T03:24:56.113Z",
     "scrapedAt": "2026-02-25T14:57:30.846Z",
     "url": "https://wagey.gg/jobs/52183d2ac6e8ac35-senior-manager-billing-and-revenue-q2c-at-twilio?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "6bcd18a827fa6005",
@@ -48218,7 +48153,7 @@
     "verifiedAt": "2026-02-26T03:24:08.166Z",
     "scrapedAt": "2026-02-25T14:57:34.420Z",
     "url": "https://wagey.gg/jobs/6bcd18a827fa6005-payroll-associate-uk-based-in-india-at-deel?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "079be18626366638",
@@ -48240,7 +48175,7 @@
     "verifiedAt": "2026-02-26T03:24:29.776Z",
     "scrapedAt": "2026-02-25T14:57:36.736Z",
     "url": "https://wagey.gg/jobs/079be18626366638-infrastructure-engineer-observability-apac-at-supabase?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "aa188ae39805ca8d",
@@ -52621,6 +52556,169 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T14:49:26.983Z",
     "scrapedAt": "2026-02-27T14:49:26.463Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "2a596a1b7f6fa04a",
+    "title": "Senior Customer Success Manager - APAC",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Customer Success",
+      "Salesforce",
+      "Gainsight",
+      "Contract Management"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T16:19:32.080Z",
+    "scrapedAt": "2026-02-27T16:19:30.670Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "8ffa21e9b2fc10c4",
+    "title": "Relationship Manager - APAC (Remote - Work from Anywhere)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Prospecting",
+      "Records Management",
+      "Performance Reviews",
+      "KPI Tracking",
+      "Customer Success",
+      "Rails"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T16:19:44.310Z",
+    "scrapedAt": "2026-02-27T16:19:42.623Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "755bfc25c605a3b9",
+    "title": "Lead, Government Affairs - APAC",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Public Policy",
+      "Reporting",
+      "Documentation",
+      "Public Relations",
+      "Lobbying",
+      "Government Relations"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T16:19:47.843Z",
+    "scrapedAt": "2026-02-27T16:19:45.730Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "342a0955f81e72f4",
+    "title": "Head of People (Global)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Talent Acquisition",
+      "Learning & Development",
+      "Performance Management",
+      "Workforce Planning",
+      "Succession Planning",
+      "HR Compliance",
+      "Employee Relations"
+    ],
+    "seniority": "director",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T16:19:51.063Z",
+    "scrapedAt": "2026-02-27T16:19:49.396Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5e78ff9260e3e104",
+    "title": "Head of People (Global)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Talent Acquisition",
+      "Learning & Development",
+      "Performance Management",
+      "Workforce Planning",
+      "Succession Planning",
+      "HR Compliance",
+      "Employee Relations"
+    ],
+    "seniority": "director",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T16:19:51.063Z",
+    "scrapedAt": "2026-02-27T16:19:49.396Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "d700f172c178c320",
+    "title": "Head of People (Global)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Talent Acquisition",
+      "Learning & Development",
+      "Performance Management",
+      "Workforce Planning",
+      "Succession Planning",
+      "HR Compliance",
+      "Employee Relations"
+    ],
+    "seniority": "director",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T16:19:50.783Z",
+    "scrapedAt": "2026-02-27T16:19:49.450Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e71fef18ab7a8aaa",
+    "title": "Head of People (Global)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Talent Acquisition",
+      "Learning & Development",
+      "Performance Management",
+      "Workforce Planning",
+      "Succession Planning",
+      "HR Compliance",
+      "Employee Relations"
+    ],
+    "seniority": "director",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T16:19:51.066Z",
+    "scrapedAt": "2026-02-27T16:19:49.690Z",
     "url": null,
     "visibility": "teaser"
   }
