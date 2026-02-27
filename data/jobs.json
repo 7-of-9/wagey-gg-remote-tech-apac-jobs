@@ -10962,28 +10962,6 @@
     "visibility": "full"
   },
   {
-    "id": "da5c46f619d5",
-    "title": "Finance Team Lead",
-    "company": "HitPay",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Reporting",
-      "Budget Forecasting",
-      "Close",
-      "Procurement",
-      "Governance"
-    ],
-    "seniority": "staff",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T14:11:51.986Z",
-    "scrapedAt": "2026-01-22T06:47:23.403Z",
-    "url": "https://wagey.gg/jobs/da5c46f619d5-finance-team-lead-at-hitpay?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "6e284e3f3a16",
     "title": "Senior DevOps Engineer (Azure)",
     "company": "Heidi Health",
@@ -23626,28 +23604,6 @@
     "verifiedAt": "2026-02-26T13:16:00.213Z",
     "scrapedAt": "2026-02-08T15:35:19.563Z",
     "url": "https://wagey.gg/jobs/9f7b2b8154ee-btse-web3-junior-operations-support-associate-mandarin-speaking-at-btse?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "4afd870a1e47",
-    "title": "Marketing Operations Manager",
-    "company": "Sitemate",
-    "region": "APAC",
-    "salary": "$42k–$63k/year",
-    "salaryMin": 41923,
-    "salaryMax": 62884,
-    "skills": [
-      "Salesforce",
-      "Team Management",
-      "Team Leadership",
-      "Reporting",
-      "Documentation"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T14:22:09.386Z",
-    "scrapedAt": "2026-02-08T15:40:27.986Z",
-    "url": "https://wagey.gg/jobs/4afd870a1e47-marketing-operations-manager-at-sitemate?ref=github",
     "visibility": "full"
   },
   {
@@ -47887,7 +47843,7 @@
     "verifiedAt": "2026-02-27T03:31:37.736Z",
     "scrapedAt": "2026-02-25T18:08:44.550Z",
     "url": "https://wagey.gg/jobs/e1ee68a91af17a6e-smart-working-solutions-senior-content-specialist-india-at-smart-working-solutio?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "e0d267c91671c9d5",
@@ -47906,7 +47862,7 @@
     "verifiedAt": "2026-02-26T06:10:03.456Z",
     "scrapedAt": "2026-02-25T18:08:49.560Z",
     "url": "https://wagey.gg/jobs/e0d267c91671c9d5-director-development-country-manager-at-affirm?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "e06699e16943161b",
@@ -47924,7 +47880,7 @@
     "verifiedAt": "2026-02-26T06:10:58.300Z",
     "scrapedAt": "2026-02-25T18:09:13.873Z",
     "url": "https://wagey.gg/jobs/e06699e16943161b-support-specialist-at-barkbus?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "75500458e40d1432",
