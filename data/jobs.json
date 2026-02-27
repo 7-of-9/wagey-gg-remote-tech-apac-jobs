@@ -13325,27 +13325,6 @@
     "visibility": "full"
   },
   {
-    "id": "6da675454c3d",
-    "title": "Partnership Manager",
-    "company": "Burkland Associates",
-    "region": "APAC",
-    "salary": "$90k–$120k/year",
-    "salaryMin": 90000,
-    "salaryMax": 120000,
-    "skills": [
-      "Performance Reviews",
-      "Records Management",
-      "Business Development",
-      "Content Creation"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T02:00:21.856Z",
-    "scrapedAt": "2026-01-23T17:59:26.933Z",
-    "url": "https://wagey.gg/jobs/6da675454c3d-partnership-manager-at-burkland-associates?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "573546d42624",
     "title": "Senior Director, Enterprise Technology & AI",
     "company": "GitLab",
@@ -42350,7 +42329,7 @@
     "verifiedAt": "2026-02-26T04:06:39.940Z",
     "scrapedAt": "2026-02-20T01:35:29.860Z",
     "url": "https://wagey.gg/jobs/593f3b529dfbd97d-supply-planner-at-anduril-industries?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "0d70d37c1c7e3ac8",
@@ -42372,7 +42351,7 @@
     "verifiedAt": "2026-02-26T04:07:06.780Z",
     "scrapedAt": "2026-02-20T01:36:01.350Z",
     "url": "https://wagey.gg/jobs/0d70d37c1c7e3ac8-engineering-manager-at-opentable?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "6db6a7ef8e862965",
@@ -42388,7 +42367,7 @@
     "verifiedAt": "2026-02-26T04:07:50.140Z",
     "scrapedAt": "2026-02-20T01:36:57.913Z",
     "url": "https://wagey.gg/jobs/6db6a7ef8e862965-senior-software-engineer-design-systems-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ab3b6a3edb50d136",
@@ -42404,7 +42383,7 @@
     "verifiedAt": "2026-02-26T04:08:10.106Z",
     "scrapedAt": "2026-02-20T01:37:23.850Z",
     "url": "https://wagey.gg/jobs/ab3b6a3edb50d136-senior-software-engineer-core-ux-platform-at-pandadoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e572398bc901ca84",
@@ -42426,7 +42405,7 @@
     "verifiedAt": "2026-02-26T08:46:56.016Z",
     "scrapedAt": "2026-02-20T01:38:14.630Z",
     "url": "https://wagey.gg/jobs/e572398bc901ca84-highlevel-software-development-engineer-in-test-iii-at-highlevel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "3223323327f77925",
@@ -42448,7 +42427,7 @@
     "verifiedAt": "2026-02-26T03:43:57.906Z",
     "scrapedAt": "2026-02-20T01:38:39.666Z",
     "url": "https://wagey.gg/jobs/3223323327f77925-senior-compliance-manager-mlro-at-airwallex?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "0ba531beea34f878",
@@ -42470,7 +42449,7 @@
     "verifiedAt": "2026-02-26T04:10:51.906Z",
     "scrapedAt": "2026-02-20T01:39:38.850Z",
     "url": "https://wagey.gg/jobs/0ba531beea34f878-cashiering-associate-at-alpaca?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "09c54972720f409e",
@@ -42486,7 +42465,7 @@
     "verifiedAt": "2026-02-26T04:11:23.506Z",
     "scrapedAt": "2026-02-20T01:39:55.453Z",
     "url": "https://wagey.gg/jobs/09c54972720f409e-staff-software-engineer-search-at-zocdoc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "7975cf0f9976596d",
@@ -42507,7 +42486,7 @@
     "verifiedAt": "2026-02-26T08:45:11.220Z",
     "scrapedAt": "2026-02-20T01:40:24.810Z",
     "url": "https://wagey.gg/jobs/7975cf0f9976596d-team-lead-at-32co?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "7355dd25ff7292ff",
@@ -42529,7 +42508,7 @@
     "verifiedAt": "2026-02-26T04:13:53.260Z",
     "scrapedAt": "2026-02-20T01:42:27.233Z",
     "url": "https://wagey.gg/jobs/7355dd25ff7292ff-full-stack-engineer-python-react-at-modulr?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "29df71f6f7f529c5",
@@ -42551,7 +42530,7 @@
     "verifiedAt": "2026-02-26T03:46:49.293Z",
     "scrapedAt": "2026-02-20T01:42:39.596Z",
     "url": "https://wagey.gg/jobs/29df71f6f7f529c5-senior-manager-regulatory-reporting-at-airwallex?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "2b03247a48e1d0ef",
@@ -42571,7 +42550,7 @@
     "verifiedAt": "2026-02-26T08:40:46.560Z",
     "scrapedAt": "2026-02-20T01:42:54.306Z",
     "url": "https://wagey.gg/jobs/2b03247a48e1d0ef-people-manager-at-tala?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "de50273bb2603d69",
@@ -42593,7 +42572,7 @@
     "verifiedAt": "2026-02-26T03:26:34.433Z",
     "scrapedAt": "2026-02-20T01:49:03.673Z",
     "url": "https://wagey.gg/jobs/de50273bb2603d69-accounts-payable-specialist-i-at-deel?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "012dc4efce710cd6",
@@ -42613,7 +42592,7 @@
     "verifiedAt": "2026-02-26T03:30:06.486Z",
     "scrapedAt": "2026-02-20T01:49:42.996Z",
     "url": "https://wagey.gg/jobs/012dc4efce710cd6-account-manager-smb-at-sitemate?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "47f974423ef9e9d9",
@@ -42635,7 +42614,7 @@
     "verifiedAt": "2026-02-26T08:36:01.590Z",
     "scrapedAt": "2026-02-20T02:02:44.343Z",
     "url": "https://wagey.gg/jobs/47f974423ef9e9d9-lead-software-engineer-at-happyco-at-happyco?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "679201f1cc50f312",
@@ -42654,7 +42633,7 @@
     "verifiedAt": "2026-02-26T04:31:06.420Z",
     "scrapedAt": "2026-02-20T02:15:42.346Z",
     "url": "https://wagey.gg/jobs/679201f1cc50f312-senior-clinical-research-associate-at-precision-for-medicine?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e663edbef2257826",
