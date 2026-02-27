@@ -26021,28 +26021,6 @@
     "visibility": "full"
   },
   {
-    "id": "bb09e7bec44c",
-    "title": "Content & PR Manager",
-    "company": "Powered by Pioneer",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Product Marketing",
-      "Copywriting",
-      "Executive Support",
-      "Performance Reviews",
-      "Storytelling"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": "2026-02-27T01:43:24.380Z",
-    "scrapedAt": "2026-02-09T22:36:30.310Z",
-    "url": "https://wagey.gg/jobs/bb09e7bec44c-content-pr-manager-at-powered-by-pioneer?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "04887c536721",
     "title": "H1 - Senior Salesforce Administrator",
     "company": "H1",
@@ -48261,7 +48239,7 @@
     "verifiedAt": "2026-02-26T13:57:50.346Z",
     "scrapedAt": "2026-02-25T11:48:14.650Z",
     "url": "https://wagey.gg/jobs/936dd3d570df846a-lead-data-scientist-payment-data-team-at-gotogroup?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "a4c5022c70278f0b",
@@ -48283,7 +48261,7 @@
     "verifiedAt": "2026-02-26T13:58:01.040Z",
     "scrapedAt": "2026-02-25T11:48:21.130Z",
     "url": "https://wagey.gg/jobs/a4c5022c70278f0b-shopback-key-account-executive-payments-enterprise-smb-at-shopback-2?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "118bf79a6a57aa4a",
@@ -48304,7 +48282,7 @@
     "verifiedAt": "2026-02-26T13:58:12.583Z",
     "scrapedAt": "2026-02-25T11:48:23.946Z",
     "url": "https://wagey.gg/jobs/118bf79a6a57aa4a-crypto-com-product-manager-onboarding-main-app-at-crypto?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "f26c124706651e45",
@@ -48325,7 +48303,7 @@
     "verifiedAt": "2026-02-26T13:59:46.720Z",
     "scrapedAt": "2026-02-25T11:48:24.593Z",
     "url": "https://wagey.gg/jobs/f26c124706651e45-associate-graduate-developer-at-thoughtworks-new?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "64b6a1a55e99a47b",
@@ -48346,7 +48324,7 @@
     "verifiedAt": "2026-02-26T14:00:27.020Z",
     "scrapedAt": "2026-02-25T11:48:30.063Z",
     "url": "https://wagey.gg/jobs/64b6a1a55e99a47b-talent-acquisition-specialist-apac-at-woolpert?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "9fc629f774b3e7fb",
@@ -52497,6 +52475,80 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T13:19:53.286Z",
     "scrapedAt": "2026-02-27T13:19:52.663Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "75812e11a3b7514a",
+    "title": "Technical Account Manager (India)",
+    "company": null,
+    "region": "APAC",
+    "salary": "$208k/year",
+    "salaryMin": 208000,
+    "salaryMax": 208000,
+    "skills": [
+      "Account Management",
+      "Customer Onboarding",
+      "Docker",
+      "Documentation",
+      "Customer Engagement"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T13:26:57.906Z",
+    "scrapedAt": "2026-02-27T13:26:57.246Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3ced53d0df1ff328",
+    "title": "Operations Specialist",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "Reporting",
+      "DAU",
+      "Data Analysis"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T13:32:34.700Z",
+    "scrapedAt": "2026-02-27T13:32:34.126Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "34b655a846fd94e6",
+    "title": "Frontend Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "$121k–$178k/year",
+    "salaryMin": 121048,
+    "salaryMax": 178012,
+    "skills": [
+      "Java",
+      "C++",
+      "Rust",
+      "Go",
+      "Python",
+      "JavaScript",
+      "Linux",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Node.js",
+      "React",
+      "TypeScript",
+      "Full Stack"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T13:32:54.573Z",
+    "scrapedAt": "2026-02-27T13:32:53.520Z",
     "url": null,
     "visibility": "teaser"
   }
