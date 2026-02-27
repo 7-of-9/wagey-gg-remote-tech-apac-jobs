@@ -21463,28 +21463,6 @@
     "visibility": "full"
   },
   {
-    "id": "4646277c0a85",
-    "title": "Senior Software Engineer",
-    "company": "Alpaca",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Java",
-      "Go",
-      "GCP",
-      "PostgreSQL",
-      "Docker"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T14:04:55.843Z",
-    "scrapedAt": "2026-02-08T13:06:28.736Z",
-    "url": "https://wagey.gg/jobs/4646277c0a85-senior-software-engineer-at-alpaca?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "7b2562350521",
     "title": "[Cooperative Internship 2026] Data Platform Engineer Intern",
     "company": "Agoda",
@@ -52541,6 +52519,49 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T19:28:36.850Z",
     "scrapedAt": "2026-02-27T19:28:35.770Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "91dcb0edf47a9918",
+    "title": "Renewal Specialist ",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Salesforce",
+      "CRM Management",
+      "Customer Retention",
+      "Outreach",
+      "Customer Success"
+    ],
+    "seniority": "junior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T22:37:22.366Z",
+    "scrapedAt": "2026-02-27T22:37:20.803Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "65a60b522a380d9b",
+    "title": "Customer Success Manager",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Account Management",
+      "Customer Success",
+      "Public Speaking",
+      "Contract Negotiation"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T22:37:34.336Z",
+    "scrapedAt": "2026-02-27T22:37:32.800Z",
     "url": null,
     "visibility": "teaser"
   }
