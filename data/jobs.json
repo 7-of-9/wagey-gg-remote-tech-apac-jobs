@@ -34552,24 +34552,6 @@
     "visibility": "full"
   },
   {
-    "id": "2597624eb4f08d8a",
-    "title": "Standards Architect",
-    "company": "Affinidi",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Governance"
-    ],
-    "seniority": "principal",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T03:38:25.260Z",
-    "scrapedAt": "2026-02-16T15:02:41.030Z",
-    "url": "https://wagey.gg/jobs/2597624eb4f08d8a-standards-architect-at-affinidi?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "07b5cf8e66aacb06",
     "title": "Account Executive – Global Accounts (Bangkok based)",
     "company": "Agoda",
@@ -42650,7 +42632,7 @@
     "verifiedAt": "2026-02-26T13:36:13.316Z",
     "scrapedAt": "2026-02-20T05:39:25.153Z",
     "url": "https://wagey.gg/jobs/e663edbef2257826-senior-accountant-at-blue-cube-services?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "977412cd1dffe6bd",
@@ -42672,7 +42654,7 @@
     "verifiedAt": "2026-02-26T13:36:25.440Z",
     "scrapedAt": "2026-02-20T05:40:06.350Z",
     "url": "https://wagey.gg/jobs/977412cd1dffe6bd-treasury-reporting-analyst-at-blue-cube-services?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "ab81995ce3827aae",
@@ -42694,7 +42676,7 @@
     "verifiedAt": "2026-02-26T13:36:44.336Z",
     "scrapedAt": "2026-02-20T05:41:52.176Z",
     "url": "https://wagey.gg/jobs/ab81995ce3827aae-backend-engineer-e2-at-bitgo?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e7df37dd5dd0b863",
@@ -42716,7 +42698,7 @@
     "verifiedAt": "2026-02-26T13:10:11.713Z",
     "scrapedAt": "2026-02-20T05:42:01.910Z",
     "url": "https://wagey.gg/jobs/e7df37dd5dd0b863-backend-engineer-at-magic-eden?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a553851e09236156",
@@ -42738,7 +42720,7 @@
     "verifiedAt": "2026-02-26T13:11:34.546Z",
     "scrapedAt": "2026-02-20T05:42:33.023Z",
     "url": "https://wagey.gg/jobs/a553851e09236156-frontend-engineer-at-magic-eden?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "6681d484291933c0",
@@ -51203,6 +51185,360 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T03:05:07.880Z",
     "scrapedAt": "2026-02-27T03:05:06.943Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "fb4112730065b50d",
+    "title": "Binance Accelerator Program - Product Manager (Web3 Wallet)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Mandarin",
+      "Market Research",
+      "Program Management",
+      "DEX"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T05:59:23.000Z",
+    "scrapedAt": "2026-02-27T05:59:22.350Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "681bacc66b10b1d2",
+    "title": "Senior Frontend Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Webpack",
+      "React"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T06:01:47.443Z",
+    "scrapedAt": "2026-02-27T06:01:46.793Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "6f087924b506d918",
+    "title": "Data Analyst (Earn)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "SQL",
+      "Reporting",
+      "Tableau",
+      "Power BI",
+      "Looker",
+      "Data Visualization",
+      "Python",
+      "Data Analysis"
+    ],
+    "seniority": "junior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T06:02:32.013Z",
+    "scrapedAt": "2026-02-27T06:02:31.043Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3e886d5577b6e598",
+    "title": "Customer Stories Manager",
+    "company": null,
+    "region": "APAC",
+    "salary": "$155k/year",
+    "salaryMin": 155000,
+    "salaryMax": 155000,
+    "skills": [
+      "Storytelling",
+      "Product Marketing",
+      "Customer Success",
+      "Cross-functional Collaboration",
+      "Sales Enablement"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:02:40.550Z",
+    "scrapedAt": "2026-02-27T06:02:39.883Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "881204cfac9a22f7",
+    "title": "Technology Lead",
+    "company": null,
+    "region": "APAC",
+    "salary": "$520k/year",
+    "salaryMin": 520000,
+    "salaryMax": 520000,
+    "skills": [
+      "Coaching",
+      "Goal Setting",
+      "Java",
+      "Mentoring"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T06:02:45.590Z",
+    "scrapedAt": "2026-02-27T06:02:44.926Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "49cbfa93eb8dfd96",
+    "title": "L3 Tech Lead",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Observable",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Move",
+      "Mentoring",
+      "Decision Making"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-27T06:03:06.423Z",
+    "scrapedAt": "2026-02-27T06:03:05.620Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "616c2049c7f5f51b",
+    "title": "Senior Backend& Web3 Developer/Leader",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Java",
+      "Smart Contracts",
+      "Rust",
+      "Move",
+      "Solidity",
+      "Aave",
+      "Uniswap",
+      "Claude"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T06:03:13.906Z",
+    "scrapedAt": "2026-02-27T06:03:13.120Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3cc1d5ee17b4ea15",
+    "title": "Compliance Analyst",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Russian",
+      "Documentation",
+      "Due Diligence"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T06:04:36.480Z",
+    "scrapedAt": "2026-02-27T06:04:35.976Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3fde6c274c64ba42",
+    "title": "AI Data Specialist",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Quality Assurance"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T06:04:58.973Z",
+    "scrapedAt": "2026-02-27T06:04:58.460Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "d082999f41e3ecb3",
+    "title": "DevOps Engineer II",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Performance Management",
+      "Jenkins",
+      "Kubernetes",
+      "MongoDB",
+      "Cloudflare",
+      "Git",
+      "Documentation",
+      "Amazon ECS",
+      "Amazon EKS",
+      "Docker",
+      "Java",
+      "Bash",
+      "Groovy",
+      "Python",
+      "ELK",
+      "Grafana"
+    ],
+    "seniority": "mid",
+    "ats": "lever",
+    "verifiedAt": "2026-02-27T06:05:20.706Z",
+    "scrapedAt": "2026-02-27T06:05:19.483Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "179c45d686e75caa",
+    "title": "Senior Software Engineer (Backend",
+    "company": null,
+    "region": "APAC",
+    "salary": "$229k/year",
+    "salaryMin": 228800,
+    "salaryMax": 228800,
+    "skills": [
+      "Team Management",
+      "Mid-Market",
+      "TypeScript",
+      "Python",
+      "Full Stack"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:09:18.760Z",
+    "scrapedAt": "2026-02-27T06:09:18.083Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "1aa04513ec63f529",
+    "title": "Backend Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Klaviyo",
+      "AWS",
+      "Go",
+      "Java",
+      "Python"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:09:36.463Z",
+    "scrapedAt": "2026-02-27T06:09:35.840Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a1a2e4184ba8022b",
+    "title": "Territory Manager (North West, NSW)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Territory Management",
+      "Prospecting",
+      "Customer Success",
+      "Customer Onboarding",
+      "Outreach",
+      "Account Management",
+      "Close",
+      "Lead Generation"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:10:44.926Z",
+    "scrapedAt": "2026-02-27T06:10:44.193Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "92ebb8747af03fef",
+    "title": "Principal Engineer (Data Platform)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Kubernetes",
+      "GCP",
+      "AWS",
+      "Azure",
+      "Data Quality",
+      "Temporal",
+      "Vector",
+      "Claude",
+      "Cursor",
+      "Documentation"
+    ],
+    "seniority": "principal",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:12:57.110Z",
+    "scrapedAt": "2026-02-27T06:12:56.190Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e47ca44c982ec326",
+    "title": "Senior Data Scientist, GTM Analytics",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "SQL",
+      "Python",
+      "Hex",
+      "B2B",
+      "Databricks",
+      "CRM Management",
+      "Coaching",
+      "Revenue Forecasting"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-27T06:13:54.710Z",
+    "scrapedAt": "2026-02-27T06:13:53.873Z",
     "url": null,
     "visibility": "teaser"
   }
