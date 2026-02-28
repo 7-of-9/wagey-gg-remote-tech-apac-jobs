@@ -9351,28 +9351,6 @@
     "visibility": "full"
   },
   {
-    "id": "0caac4ecb7d6",
-    "title": "JumpCloud - Software Quality Engineer",
-    "company": "JumpCloud",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Executive Support",
-      "Board Support",
-      "Python",
-      "Performance Management",
-      "AWS"
-    ],
-    "seniority": "mid",
-    "ats": "lever",
-    "verifiedAt": "2026-02-27T01:04:49.750Z",
-    "scrapedAt": "2026-01-21T05:55:07.496Z",
-    "url": "https://wagey.gg/jobs/0caac4ecb7d6-jumpcloud-software-quality-engineer-at-jumpcloud?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "32ef0a9680a0",
     "title": "Rackspace - Data Engineer - Azure (remotely for US client",
     "company": "Rackspace",
@@ -43045,7 +43023,7 @@
     "verifiedAt": "2026-02-27T00:35:11.433Z",
     "scrapedAt": "2026-02-21T00:59:30.873Z",
     "url": "https://wagey.gg/jobs/0202899243c67019-analytic-partners-consultant-at-analytic-partners?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "17a255d41ee04716",
@@ -43067,7 +43045,7 @@
     "verifiedAt": "2026-02-27T00:34:09.646Z",
     "scrapedAt": "2026-02-21T01:00:23.243Z",
     "url": "https://wagey.gg/jobs/17a255d41ee04716-nium-senior-business-development-manager-ii-at-nium?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "3c334c6d8584dd58",
@@ -43089,7 +43067,7 @@
     "verifiedAt": "2026-02-27T00:35:41.036Z",
     "scrapedAt": "2026-02-21T01:01:05.410Z",
     "url": "https://wagey.gg/jobs/3c334c6d8584dd58-brillio-lead-data-engineer-at-brillio?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "bc6fe492641c8178",
@@ -47863,7 +47841,7 @@
   {
     "id": "75500458e40d1432",
     "title": "Customer Lifecycle Marketing Analyst",
-    "company": null,
+    "company": "siteminder",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47879,8 +47857,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T14:19:09.453Z",
     "scrapedAt": "2026-02-26T00:31:19.843Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/75500458e40d1432-customer-lifecycle-marketing-analyst-at-siteminder?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1bcd6b7067ff752c",
@@ -52500,6 +52478,52 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-27T22:37:34.336Z",
     "scrapedAt": "2026-02-27T22:37:32.800Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "64896c69721fbd36",
+    "title": "Senior Data Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "AWS",
+      "Observable",
+      "Quality Assurance"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T00:44:23.550Z",
+    "scrapedAt": "2026-02-28T00:44:23.023Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "2be2efd34e7dd68c",
+    "title": "Senior Software Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Python",
+      "Shell",
+      "Temporal",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Terraform",
+      "Kubernetes",
+      "Docker"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T00:46:18.766Z",
+    "scrapedAt": "2026-02-28T00:46:17.993Z",
     "url": null,
     "visibility": "teaser"
   }
