@@ -1058,28 +1058,6 @@
     "visibility": "full"
   },
   {
-    "id": "369271087225",
-    "title": "Virtual Assistant",
-    "company": "Futureproofing",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Travel Arrangements",
-      "Change Management",
-      "Team Management",
-      "Market Research",
-      "Calendar Management"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T09:48:33.310Z",
-    "scrapedAt": "2026-01-11T06:09:25.353Z",
-    "url": "https://wagey.gg/jobs/369271087225-virtual-assistant-at-futureproofing?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "9e632ac30c3b",
     "title": "DevOps Engineer (AWS Cloud Ops)",
     "company": "Nice",
@@ -46282,28 +46260,6 @@
     "visibility": "fomo"
   },
   {
-    "id": "9aa48e9022fdd9ac",
-    "title": "Finance Director APAC",
-    "company": "Everpure",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Team Management",
-      "Process Optimization",
-      "Reporting",
-      "Harness",
-      "Financial Analysis"
-    ],
-    "seniority": "director",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T08:43:25.736Z",
-    "scrapedAt": "2026-02-25T08:38:23.060Z",
-    "url": "https://wagey.gg/jobs/9aa48e9022fdd9ac-finance-director-apac-at-everpure?ref=github",
-    "visibility": "fomo"
-  },
-  {
     "id": "3fd2e39367672f2a",
     "title": "Senior/Staff Business Recruiter",
     "company": "Runway",
@@ -52425,6 +52381,26 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T06:53:50.740Z",
     "scrapedAt": "2026-02-28T06:53:50.130Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "7230686cf32d46e6",
+    "title": "Customer Solutions Consultant - Mandarin & English",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Mandarin",
+      "Salesforce",
+      "CRM Management"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T08:03:01.230Z",
+    "scrapedAt": "2026-02-28T08:03:00.716Z",
     "url": null,
     "visibility": "teaser"
   }
