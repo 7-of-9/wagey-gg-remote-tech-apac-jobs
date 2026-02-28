@@ -52675,5 +52675,92 @@
     "scrapedAt": "2026-02-28T15:05:01.813Z",
     "url": null,
     "visibility": "teaser"
+  },
+  {
+    "id": "95086508d55a6fe9",
+    "title": "Staff Supply Chain Data Analyst",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Excel",
+      "Reporting",
+      "SQL",
+      "Power BI",
+      "Data Governance"
+    ],
+    "seniority": "staff",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-28T17:45:32.070Z",
+    "scrapedAt": "2026-02-28T17:45:30.566Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "93334bdcb5c1e926",
+    "title": "Project Manager (Trade Finance) - AI Fintech",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting",
+      "Stakeholder Management"
+    ],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T17:45:37.763Z",
+    "scrapedAt": "2026-02-28T17:45:37.020Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a58b1dd5a122e705",
+    "title": "Software Development Lead (Tech Lead) - AI Fintech",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Java",
+      "C++",
+      "C#",
+      "JavaScript",
+      "Python",
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T17:45:38.303Z",
+    "scrapedAt": "2026-02-28T17:45:37.103Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "754da09f0e54c44b",
+    "title": "Project Manager - AI Fintech",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Thai",
+      "Team Leadership",
+      "Project Planning",
+      "PMP"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T17:45:38.216Z",
+    "scrapedAt": "2026-02-28T17:45:37.336Z",
+    "url": null,
+    "visibility": "teaser"
   }
 ]
