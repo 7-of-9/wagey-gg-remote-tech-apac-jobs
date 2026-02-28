@@ -34642,28 +34642,6 @@
     "visibility": "full"
   },
   {
-    "id": "60cd742271b1dd7c",
-    "title": "Marketing Operations and Executive Coordinator",
-    "company": "Fresh Prints",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Canva",
-      "Adobe Creative Suite",
-      "Figma",
-      "Email Marketing",
-      "Content Creation"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-26T03:56:46.230Z",
-    "scrapedAt": "2026-02-16T15:39:32.170Z",
-    "url": "https://wagey.gg/jobs/60cd742271b1dd7c-marketing-operations-and-executive-coordinator-at-fresh-prints?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "102e3a2d2c2311df",
     "title": "Executive Assistant",
     "company": "General Atlantic ",
@@ -47892,7 +47870,7 @@
   {
     "id": "58f56a76e31ca7a9",
     "title": "Teikametrics - Strategic Growth Account Manager",
-    "company": null,
+    "company": "teikametrics",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47908,13 +47886,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:32:11.136Z",
     "scrapedAt": "2026-02-26T06:48:35.696Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/58f56a76e31ca7a9-teikametrics-strategic-growth-account-manager-at-teikametrics?ref=github",
+    "visibility": "full"
   },
   {
     "id": "91c510784f5e04ab",
     "title": "Rackspace - AI Model Serving Specialist",
-    "company": null,
+    "company": "rackspace",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47930,13 +47908,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:32:18.346Z",
     "scrapedAt": "2026-02-26T06:48:36.313Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/91c510784f5e04ab-rackspace-ai-model-serving-specialist-at-rackspace?ref=github",
+    "visibility": "full"
   },
   {
     "id": "b42e83f26da5260d",
     "title": "Ad Ops Account Manager",
-    "company": null,
+    "company": "teikametrics",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47950,13 +47928,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T03:32:15.543Z",
     "scrapedAt": "2026-02-26T06:48:36.756Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/b42e83f26da5260d-ad-ops-account-manager-at-teikametrics?ref=github",
+    "visibility": "full"
   },
   {
     "id": "071ddd3f8efa3120",
     "title": "Finance System Lead, Group Consolidation",
-    "company": null,
+    "company": "OKX",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47973,13 +47951,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T06:48:40.950Z",
     "scrapedAt": "2026-02-26T06:48:39.013Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/071ddd3f8efa3120-finance-system-lead-group-consolidation-at-okx?ref=github",
+    "visibility": "full"
   },
   {
     "id": "ae86cb82e8bf8309",
     "title": "Sr.Staff Accountant",
-    "company": null,
+    "company": "Remote People",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -47995,13 +47973,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T06:48:42.320Z",
     "scrapedAt": "2026-02-26T06:48:40.993Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/ae86cb82e8bf8309-sr-staff-accountant-at-remote-people?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e12d351500d14244",
     "title": "Applications Engineer 2",
-    "company": null,
+    "company": "Twilio",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -48022,13 +48000,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-26T06:48:44.370Z",
     "scrapedAt": "2026-02-26T06:48:42.446Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e12d351500d14244-applications-engineer-2-at-twilio?ref=github",
+    "visibility": "full"
   },
   {
     "id": "069e86828f7d46de",
     "title": "Customer Operations Specialist (Marketplace)  - Singapore",
-    "company": null,
+    "company": "Plaud",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -48038,8 +48016,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-26T06:48:44.480Z",
     "scrapedAt": "2026-02-26T06:48:43.883Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/069e86828f7d46de-customer-operations-specialist-marketplace-singapore-at-plaud?ref=github",
+    "visibility": "full"
   },
   {
     "id": "4bcf269b0a61078d",
@@ -52383,6 +52361,70 @@
     "ats": "lever",
     "verifiedAt": "2026-02-28T04:55:03.986Z",
     "scrapedAt": "2026-02-28T04:55:03.206Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "0c75bc988323340f",
+    "title": "AI Evaluation Product Manager",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "SQL",
+      "Python",
+      "Notion"
+    ],
+    "seniority": "junior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T06:51:29.396Z",
+    "scrapedAt": "2026-02-28T06:51:28.720Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "3b66b056bffa80f0",
+    "title": "Staff Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Python",
+      "TypeScript",
+      "Full Stack",
+      "Documentation",
+      "ANZ"
+    ],
+    "seniority": "staff",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T06:51:37.586Z",
+    "scrapedAt": "2026-02-28T06:51:37.033Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e90302e70cf3936e",
+    "title": "Senior Software Engineer (Backend",
+    "company": null,
+    "region": "APAC",
+    "salary": "$229k/year",
+    "salaryMin": 228800,
+    "salaryMax": 228800,
+    "skills": [
+      "Team Management",
+      "Mid-Market",
+      "TypeScript",
+      "Python",
+      "Full Stack"
+    ],
+    "seniority": "senior",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T06:53:50.740Z",
+    "scrapedAt": "2026-02-28T06:53:50.130Z",
     "url": null,
     "visibility": "teaser"
   }
