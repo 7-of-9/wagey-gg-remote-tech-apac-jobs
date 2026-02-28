@@ -15679,50 +15679,6 @@
     "visibility": "full"
   },
   {
-    "id": "6b0fe9a469cc",
-    "title": "Account Executive, Commerical Sales - ANZ",
-    "company": "confluent",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Prospecting",
-      "Customer Relations",
-      "Revenue Growth",
-      "Customer Success",
-      "Close"
-    ],
-    "seniority": "mid",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-28T08:17:10.716Z",
-    "scrapedAt": "2026-01-26T10:52:48.906Z",
-    "url": "https://wagey.gg/jobs/6b0fe9a469cc-account-executive-commerical-sales-anz-at-confluent?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "a8a45b2e5971",
-    "title": "Enterprise Account Executive, Strategic",
-    "company": "confluent",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Prospecting",
-      "Customer Relations",
-      "Revenue Growth",
-      "Customer Success",
-      "Close"
-    ],
-    "seniority": "staff",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-28T08:17:19.950Z",
-    "scrapedAt": "2026-01-26T10:52:50.220Z",
-    "url": "https://wagey.gg/jobs/a8a45b2e5971-enterprise-account-executive-strategic-at-confluent?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "c9bebdcd80a2",
     "title": "Security Solutions Engineer, Pre-Sales (Security Specialist) - APAC",
     "company": "openai",
@@ -42790,7 +42746,7 @@
     "verifiedAt": "2026-02-28T00:55:22.586Z",
     "scrapedAt": "2026-02-21T20:18:35.643Z",
     "url": "https://wagey.gg/jobs/51e0a6537d7d80fe-automotive-senior-solutions-architect-korean-speaking-at-mapbox?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "e5f29128e78c1293",
