@@ -32615,28 +32615,6 @@
     "visibility": "full"
   },
   {
-    "id": "e44d28e5a9b8cb44",
-    "title": "Sales Solutions Engineer",
-    "company": "Triple Whale",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Customer Onboarding",
-      "REST",
-      "JavaScript",
-      "Node.js",
-      "SQL"
-    ],
-    "seniority": "senior",
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-28T06:00:38.443Z",
-    "scrapedAt": "2026-02-16T13:27:29.360Z",
-    "url": "https://wagey.gg/jobs/e44d28e5a9b8cb44-sales-solutions-engineer-at-triple-whale?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "d04bd67f3a8b036f",
     "title": "Compliance Advisor",
     "company": "TRM Labs",
@@ -52760,6 +52738,76 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T17:45:38.216Z",
     "scrapedAt": "2026-02-28T17:45:37.336Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "c4a4e92d77788d6c",
+    "title": "Product Manager, AI Solutions",
+    "company": null,
+    "region": "APAC",
+    "salary": "$128–$449/year",
+    "salaryMin": 128,
+    "salaryMax": 449,
+    "skills": [
+      "Product Marketing",
+      "Market Research",
+      "Client Consulting",
+      "Canva",
+      "SQL",
+      "Notion",
+      "Airtable",
+      "Asana"
+    ],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-28T19:03:35.480Z",
+    "scrapedAt": "2026-02-28T19:03:34.623Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "9d8b7b6d093d3d5a",
+    "title": "Lead Product Manager, AI Solutions",
+    "company": null,
+    "region": "APAC",
+    "salary": "$22k+/year",
+    "salaryMin": 21959,
+    "salaryMax": null,
+    "skills": [
+      "Product Marketing",
+      "Market Research",
+      "Client Consulting",
+      "Canva",
+      "SQL",
+      "Notion",
+      "Airtable",
+      "Asana"
+    ],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-02-28T19:03:51.793Z",
+    "scrapedAt": "2026-02-28T19:03:50.933Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "08d98ba83492ec9f",
+    "title": "Lead Data Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "$1559k/year",
+    "salaryMin": 1558806,
+    "salaryMax": 1558806,
+    "skills": [
+      "Scala",
+      "Redshift",
+      "AWS"
+    ],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-02-28T19:04:07.793Z",
+    "scrapedAt": "2026-02-28T19:04:07.240Z",
     "url": null,
     "visibility": "teaser"
   }
