@@ -23494,49 +23494,6 @@
     "visibility": "full"
   },
   {
-    "id": "8e1e9159c44b",
-    "title": "Web3 Backend Engineer",
-    "company": "Gate",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "EVM",
-      "BSC",
-      "Ethereum",
-      "Polygon",
-      "Bitcoin"
-    ],
-    "seniority": "mid",
-    "ats": "lever",
-    "verifiedAt": "2026-02-26T13:19:23.410Z",
-    "scrapedAt": "2026-02-08T15:47:22.240Z",
-    "url": "https://wagey.gg/jobs/8e1e9159c44b-web3-backend-engineer-at-gate?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "a91908dc2305",
-    "title": "Web3 Frontend Engineer",
-    "company": "Gate",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "JavaScript",
-      "TypeScript",
-      "Sentry",
-      "Documentation"
-    ],
-    "seniority": null,
-    "ats": "lever",
-    "verifiedAt": "2026-02-26T13:19:58.546Z",
-    "scrapedAt": "2026-02-08T15:48:49.853Z",
-    "url": "https://wagey.gg/jobs/a91908dc2305-web3-frontend-engineer-at-gate?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "bf85e898fd6e",
     "title": "Vestiaire Collective",
     "company": "Vestiaire Collective",
@@ -47657,7 +47614,7 @@
     "verifiedAt": "2026-02-26T03:39:45.653Z",
     "scrapedAt": "2026-02-26T03:39:43.890Z",
     "url": "https://wagey.gg/jobs/1bcd6b7067ff752c-growth-engineer-data-systems-at-bitmex?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "d0837424519291e3",
@@ -47679,7 +47636,7 @@
     "verifiedAt": "2026-02-27T03:30:10.540Z",
     "scrapedAt": "2026-02-26T03:39:44.880Z",
     "url": "https://wagey.gg/jobs/d0837424519291e3-deputy-people-partner-12-month-fixed-term-contract-at-deputy?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "001c039aa1d2da74",
@@ -47707,7 +47664,7 @@
     "verifiedAt": "2026-02-26T03:39:46.460Z",
     "scrapedAt": "2026-02-26T03:39:44.996Z",
     "url": "https://wagey.gg/jobs/001c039aa1d2da74-growth-engineer-data-systems-at-bitmex?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "b533ad5c370c8e30",
@@ -47730,7 +47687,7 @@
     "verifiedAt": "2026-02-26T03:39:52.410Z",
     "scrapedAt": "2026-02-26T03:39:49.616Z",
     "url": "https://wagey.gg/jobs/b533ad5c370c8e30-head-of-global-solution-engineering-at-bitgo?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "a8ccf6d3cfe65739",
@@ -47749,7 +47706,7 @@
     "verifiedAt": "2026-02-26T03:39:53.076Z",
     "scrapedAt": "2026-02-26T03:39:52.266Z",
     "url": "https://wagey.gg/jobs/a8ccf6d3cfe65739-quality-customer-experience-specialist-singapore-at-plaud?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "a225e5025393562d",
@@ -47771,7 +47728,7 @@
     "verifiedAt": "2026-02-27T03:30:17.393Z",
     "scrapedAt": "2026-02-26T03:43:27.446Z",
     "url": "https://wagey.gg/jobs/a225e5025393562d-technical-lead-at-3pillar?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "9266e57ca16a11f0",
@@ -47793,7 +47750,7 @@
     "verifiedAt": "2026-02-27T03:30:19.753Z",
     "scrapedAt": "2026-02-26T03:44:13.910Z",
     "url": "https://wagey.gg/jobs/9266e57ca16a11f0-xsolla-tech-lead-backend-golang-php-at-xsolla?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "3f1dd9578c6098fa",
@@ -47815,7 +47772,7 @@
     "verifiedAt": "2026-02-26T03:46:08.323Z",
     "scrapedAt": "2026-02-26T03:46:07.753Z",
     "url": "https://wagey.gg/jobs/3f1dd9578c6098fa-frontend-engineer-desktop-at-plaud?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "4c73fa5d36731cbc",
@@ -47846,7 +47803,7 @@
     "verifiedAt": "2026-02-26T03:46:42.126Z",
     "scrapedAt": "2026-02-26T03:46:41.150Z",
     "url": "https://wagey.gg/jobs/4c73fa5d36731cbc-full-stack-engineer-at-remote-people?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "57209b43743e1651",
@@ -47867,7 +47824,7 @@
     "verifiedAt": "2026-02-26T03:47:20.720Z",
     "scrapedAt": "2026-02-26T03:47:20.123Z",
     "url": "https://wagey.gg/jobs/57209b43743e1651-principal-architect-data-knowledge-platform-at-airwallex?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "477cf44d6867a90f",
@@ -47889,7 +47846,7 @@
     "verifiedAt": "2026-02-26T03:48:49.310Z",
     "scrapedAt": "2026-02-26T03:48:48.740Z",
     "url": "https://wagey.gg/jobs/477cf44d6867a90f-backend-engineer-at-plaud?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "af05db67360e5e79",
@@ -47908,7 +47865,7 @@
     "verifiedAt": "2026-02-26T03:48:57.443Z",
     "scrapedAt": "2026-02-26T03:48:56.936Z",
     "url": "https://wagey.gg/jobs/af05db67360e5e79-senior-backend-engineer-ai-applications-at-plaud?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "0c1de5107ac0cfde",
@@ -47930,7 +47887,7 @@
     "verifiedAt": "2026-02-26T03:49:14.020Z",
     "scrapedAt": "2026-02-26T03:49:13.453Z",
     "url": "https://wagey.gg/jobs/0c1de5107ac0cfde-senior-software-engineer-javascript-typescript-at-bjak?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "58f56a76e31ca7a9",
