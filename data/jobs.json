@@ -33441,22 +33441,6 @@
     "visibility": "full"
   },
   {
-    "id": "87c94522faba97b2",
-    "title": "Executive Search Talent Partner (APAC focus)",
-    "company": "tribe-xyz",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T03:12:03.890Z",
-    "scrapedAt": "2026-02-16T13:42:26.483Z",
-    "url": "https://wagey.gg/jobs/87c94522faba97b2-executive-search-talent-partner-apac-focus-at-tribe-xyz?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "395831ac7d7a2c0a",
     "title": "Senior Software Engineer - II",
     "company": "confluent",
@@ -44161,72 +44145,6 @@
     "visibility": "fomo"
   },
   {
-    "id": "7f7813e3e8374ff7",
-    "title": "Head of People (Global)",
-    "company": "bjakcareer",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Talent Acquisition",
-      "Learning & Development",
-      "Performance Management",
-      "Workforce Planning",
-      "Succession Planning"
-    ],
-    "seniority": "director",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T03:05:22.263Z",
-    "scrapedAt": "2026-02-23T13:04:04.713Z",
-    "url": "https://wagey.gg/jobs/7f7813e3e8374ff7-head-of-people-global-at-bjakcareer?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "79db87de83da6a11",
-    "title": "Head of People (Global)",
-    "company": "bjakcareer",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Talent Acquisition",
-      "Learning & Development",
-      "Performance Management",
-      "Workforce Planning",
-      "Succession Planning"
-    ],
-    "seniority": "director",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T03:05:16.183Z",
-    "scrapedAt": "2026-02-23T13:04:04.780Z",
-    "url": "https://wagey.gg/jobs/79db87de83da6a11-head-of-people-global-at-bjakcareer?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "89ee9ff1d652df97",
-    "title": "Head of People (Global)",
-    "company": "bjakcareer",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Talent Acquisition",
-      "Learning & Development",
-      "Performance Management",
-      "Workforce Planning",
-      "Succession Planning"
-    ],
-    "seniority": "director",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T03:05:16.280Z",
-    "scrapedAt": "2026-02-23T13:04:05.056Z",
-    "url": "https://wagey.gg/jobs/89ee9ff1d652df97-head-of-people-global-at-bjakcareer?ref=github",
-    "visibility": "fomo"
-  },
-  {
     "id": "45b5a02a72e37c6a",
     "title": "Lead Software Engineer (Remote)",
     "company": "bjakcareer",
@@ -44246,28 +44164,6 @@
     "verifiedAt": "2026-02-26T03:05:25.106Z",
     "scrapedAt": "2026-02-23T13:04:05.616Z",
     "url": "https://wagey.gg/jobs/45b5a02a72e37c6a-lead-software-engineer-remote-at-bjakcareer?ref=github",
-    "visibility": "fomo"
-  },
-  {
-    "id": "a38e7fc905a35739",
-    "title": "Head of People (Global)",
-    "company": "bjakcareer",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Talent Acquisition",
-      "Learning & Development",
-      "Performance Management",
-      "Workforce Planning",
-      "Succession Planning"
-    ],
-    "seniority": "director",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-26T03:05:27.860Z",
-    "scrapedAt": "2026-02-23T13:04:05.686Z",
-    "url": "https://wagey.gg/jobs/a38e7fc905a35739-head-of-people-global-at-bjakcareer?ref=github",
     "visibility": "fomo"
   },
   {
@@ -52442,6 +52338,94 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-28T01:47:01.806Z",
     "scrapedAt": "2026-02-28T01:46:59.880Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "cdc063b9af601109",
+    "title": "Senior Compliance Engineer- Singapore HQ",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Technical Writing",
+      "Documentation",
+      "Reporting",
+      "Regulatory Compliance"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-28T04:55:03.096Z",
+    "scrapedAt": "2026-02-28T04:55:01.846Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "f20817b0f92d9039",
+    "title": "Global Payroll Director",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Leadership",
+      "CPA",
+      "Vendor Management",
+      "Privacy Compliance",
+      "Governance",
+      "Process Optimization",
+      "Reporting",
+      "Data Governance"
+    ],
+    "seniority": "director",
+    "ats": "ashby",
+    "verifiedAt": "2026-02-28T04:55:03.326Z",
+    "scrapedAt": "2026-02-28T04:55:01.850Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "a8d27577ee27e012",
+    "title": "P2P产品经理",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [],
+    "seniority": null,
+    "ats": "lever",
+    "verifiedAt": "2026-02-28T04:55:03.510Z",
+    "scrapedAt": "2026-02-28T04:55:03.093Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e34343e7a0c14ba5",
+    "title": "Channel Sales Team Lead - India",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Team Management",
+      "Team Leadership",
+      "Performance Management",
+      "Partnership Development",
+      "Product Marketing",
+      "KPI Tracking",
+      "Business Development",
+      "MBA",
+      "Coaching"
+    ],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-02-28T04:55:03.986Z",
+    "scrapedAt": "2026-02-28T04:55:03.206Z",
     "url": null,
     "visibility": "teaser"
   }
