@@ -42796,28 +42796,6 @@
     "visibility": "full"
   },
   {
-    "id": "5af28398333e6280",
-    "title": "Senior Product Designer, Mobile Experience at HappyCo",
-    "company": "HappyCo",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "B2B",
-      "Claude",
-      "Observable",
-      "Cursor",
-      "Flutter"
-    ],
-    "seniority": "senior",
-    "ats": "lever",
-    "verifiedAt": "2026-02-28T03:08:43.746Z",
-    "scrapedAt": "2026-02-21T02:12:19.480Z",
-    "url": "https://wagey.gg/jobs/5af28398333e6280-senior-product-designer-mobile-experience-at-happyco-at-happyco?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "0d3df0cf1dca9c9b",
     "title": "Lead Product Manager, Airbnb.org",
     "company": "Airbnb",
@@ -48825,7 +48803,7 @@
     "verifiedAt": "2026-02-28T09:48:33.110Z",
     "scrapedAt": "2026-02-26T13:23:38.850Z",
     "url": "https://wagey.gg/jobs/e0553efe817dc09d-senior-cloud-performance-engineer-at-clickhouse?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "b20a7df29df5d254",
@@ -48847,7 +48825,7 @@
     "verifiedAt": "2026-02-28T09:48:27.940Z",
     "scrapedAt": "2026-02-26T13:23:39.160Z",
     "url": "https://wagey.gg/jobs/b20a7df29df5d254-senior-cloud-performance-engineer-at-clickhouse?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "fff620f236514403",
@@ -48869,7 +48847,7 @@
     "verifiedAt": "2026-02-28T09:48:33.666Z",
     "scrapedAt": "2026-02-26T13:23:40.166Z",
     "url": "https://wagey.gg/jobs/fff620f236514403-senior-mobile-engineer-pakistan-at-moniepoint?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "bd7ad765d95fd623",
@@ -48891,7 +48869,7 @@
     "verifiedAt": "2026-02-28T09:48:36.146Z",
     "scrapedAt": "2026-02-26T13:23:40.243Z",
     "url": "https://wagey.gg/jobs/bd7ad765d95fd623-engineering-manager-pakistan-at-moniepoint?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "52044dffa199bb25",
@@ -48913,7 +48891,7 @@
     "verifiedAt": "2026-02-28T09:48:39.813Z",
     "scrapedAt": "2026-02-26T13:23:41.786Z",
     "url": "https://wagey.gg/jobs/52044dffa199bb25-senior-shopify-integration-engineer-contract-at-tech-holding?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "54a3101d8b0a1cee",
@@ -48933,7 +48911,7 @@
     "verifiedAt": "2026-02-28T08:31:38.896Z",
     "scrapedAt": "2026-02-26T13:23:46.563Z",
     "url": "https://wagey.gg/jobs/54a3101d8b0a1cee-technical-support-consultant-at-plaud?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "694edf11f372da96",
@@ -48955,7 +48933,7 @@
     "verifiedAt": "2026-02-28T06:10:39.720Z",
     "scrapedAt": "2026-02-26T13:46:46.983Z",
     "url": "https://wagey.gg/jobs/694edf11f372da96-outreach-staff-software-engineer-frontend-at-outreach?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "a72557f753dc4d30",
@@ -48977,7 +48955,7 @@
     "verifiedAt": "2026-02-28T06:10:53.513Z",
     "scrapedAt": "2026-02-26T13:47:34.163Z",
     "url": "https://wagey.gg/jobs/a72557f753dc4d30-binance-senior-product-manager-futures-frontend-at-binance?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "db8766d5bdc5002e",
@@ -48999,7 +48977,7 @@
     "verifiedAt": "2026-02-28T06:11:05.376Z",
     "scrapedAt": "2026-02-26T13:48:16.456Z",
     "url": "https://wagey.gg/jobs/db8766d5bdc5002e-wing-assistant-senior-software-engineer-at-wing-assistant?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "1b7b35dd812ba58e",
@@ -49015,7 +48993,7 @@
     "verifiedAt": "2026-02-28T08:36:09.593Z",
     "scrapedAt": "2026-02-26T13:48:28.390Z",
     "url": "https://wagey.gg/jobs/1b7b35dd812ba58e-lead-engineer-engineering-productivity-at-neara?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "ba081b24be0b6bd6",
@@ -49037,7 +49015,7 @@
     "verifiedAt": "2026-02-28T08:36:18.896Z",
     "scrapedAt": "2026-02-26T13:48:36.676Z",
     "url": "https://wagey.gg/jobs/ba081b24be0b6bd6-staff-frontend-engineer-at-plaud?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "f17d98e163797e0a",
@@ -52691,6 +52669,54 @@
     "ats": "lever",
     "verifiedAt": "2026-02-28T15:03:46.610Z",
     "scrapedAt": "2026-02-28T15:03:45.730Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "95044ade593a6362",
+    "title": "Data Engineer I",
+    "company": null,
+    "region": "APAC",
+    "salary": "$100k–$120k/year",
+    "salaryMin": 100000,
+    "salaryMax": 120000,
+    "skills": [
+      "Documentation",
+      "Change Management",
+      "SQL",
+      "Snowflake",
+      "dbt",
+      "Redshift",
+      "Governance",
+      "Python"
+    ],
+    "seniority": "junior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-28T15:04:22.796Z",
+    "scrapedAt": "2026-02-28T15:04:22.006Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "2f4cc3a3f77bf334",
+    "title": "Software Development Engineer II",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Project Planning",
+      "Azure",
+      "Vue.js",
+      "Phoenix",
+      "Documentation",
+      "Mentoring"
+    ],
+    "seniority": "mid",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-02-28T15:05:02.610Z",
+    "scrapedAt": "2026-02-28T15:05:01.813Z",
     "url": null,
     "visibility": "teaser"
   }
