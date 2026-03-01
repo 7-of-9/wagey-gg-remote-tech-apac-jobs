@@ -49282,7 +49282,7 @@
   {
     "id": "9375bf2240c5a38f",
     "title": "Associate UX Designer",
-    "company": null,
+    "company": "Precision Medicine Group",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -49298,13 +49298,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-28T00:51:37.310Z",
     "scrapedAt": "2026-02-27T00:35:58.770Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/9375bf2240c5a38f-associate-ux-designer-at-precision-medicine-group?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a82f0b5b8340f523",
     "title": "Associate UX Designer",
-    "company": null,
+    "company": "Precision AQ",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -49320,13 +49320,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-28T00:51:42.823Z",
     "scrapedAt": "2026-02-27T00:36:16.680Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/a82f0b5b8340f523-associate-ux-designer-at-precision-aq?ref=github",
+    "visibility": "full"
   },
   {
     "id": "23c1ceb7325ef512",
     "title": "Sprinto - Senior Solutions Engineer",
-    "company": null,
+    "company": "Sprinto",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -49342,8 +49342,8 @@
     "ats": "lever",
     "verifiedAt": "2026-02-28T00:50:44.626Z",
     "scrapedAt": "2026-02-27T00:37:40.770Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/23c1ceb7325ef512-sprinto-senior-solutions-engineer-at-sprinto?ref=github",
+    "visibility": "full"
   },
   {
     "id": "612cec91af60895a",
@@ -52741,6 +52741,49 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-01T00:04:00.890Z",
     "scrapedAt": "2026-03-01T00:04:00.040Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "65d03f3c8da71c8c",
+    "title": "Account Executive",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [],
+    "seniority": null,
+    "ats": "greenhouse",
+    "verifiedAt": "2026-03-01T00:27:35.040Z",
+    "scrapedAt": "2026-03-01T00:27:34.636Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "9cee00a09696f819",
+    "title": "Director, Biometrics Strategy (West Coast)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Business Development",
+      "MBA",
+      "Team Management",
+      "Close",
+      "Revenue Growth",
+      "Reporting",
+      "Salesforce",
+      "Account Management",
+      "Procurement",
+      "Pricing Strategy"
+    ],
+    "seniority": "director",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-03-01T00:28:48.030Z",
+    "scrapedAt": "2026-03-01T00:28:47.116Z",
     "url": null,
     "visibility": "teaser"
   }
