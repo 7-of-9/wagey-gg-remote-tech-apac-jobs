@@ -51293,7 +51293,7 @@
   {
     "id": "91dcb0edf47a9918",
     "title": "Renewal Specialist ",
-    "company": null,
+    "company": "Level Access",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -51309,13 +51309,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-28T10:38:53.493Z",
     "scrapedAt": "2026-02-27T22:37:20.803Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/91dcb0edf47a9918-renewal-specialist-at-level-access?ref=github",
+    "visibility": "full"
   },
   {
     "id": "65a60b522a380d9b",
     "title": "Customer Success Manager",
-    "company": null,
+    "company": "elliptic",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -51330,8 +51330,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T10:38:10.323Z",
     "scrapedAt": "2026-02-27T22:37:32.800Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/65a60b522a380d9b-customer-success-manager-at-elliptic?ref=github",
+    "visibility": "full"
   },
   {
     "id": "64896c69721fbd36",
@@ -53094,6 +53094,26 @@
     "ats": "lever",
     "verifiedAt": "2026-03-01T19:22:17.080Z",
     "scrapedAt": "2026-03-01T19:22:16.076Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "e6511cb4243fdb1a",
+    "title": "HubSpot Specialist",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Reporting",
+      "Account Management",
+      "Zoom"
+    ],
+    "seniority": "mid",
+    "ats": "ashby",
+    "verifiedAt": "2026-03-01T22:42:21.066Z",
+    "scrapedAt": "2026-03-01T22:42:20.426Z",
     "url": null,
     "visibility": "teaser"
   }
