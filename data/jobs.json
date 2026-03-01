@@ -50195,7 +50195,7 @@
     "verifiedAt": "2026-02-27T23:59:43.810Z",
     "scrapedAt": "2026-02-27T11:58:32.243Z",
     "url": "https://wagey.gg/jobs/4cdd0e34b375c899-saviynt-partner-solutions-architect-at-saviynt?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "40339a09ac422564",
@@ -50572,7 +50572,7 @@
   {
     "id": "649a2286fab4400e",
     "title": "Senior Sales Engineer",
-    "company": null,
+    "company": "Camunda",
     "region": "APAC",
     "salary": "$175k–$282k/year",
     "salaryMin": 175200,
@@ -50586,13 +50586,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T01:23:22.390Z",
     "scrapedAt": "2026-02-27T13:19:52.663Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/649a2286fab4400e-senior-sales-engineer-at-camunda?ref=github",
+    "visibility": "full"
   },
   {
     "id": "75812e11a3b7514a",
     "title": "Technical Account Manager (India)",
-    "company": null,
+    "company": "Docker",
     "region": "APAC",
     "salary": "$208k/year",
     "salaryMin": 208000,
@@ -50608,13 +50608,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T01:30:59.366Z",
     "scrapedAt": "2026-02-27T13:26:57.246Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/75812e11a3b7514a-technical-account-manager-india-at-docker?ref=github",
+    "visibility": "full"
   },
   {
     "id": "3ced53d0df1ff328",
     "title": "Operations Specialist",
-    "company": null,
+    "company": "Binance",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -50630,13 +50630,13 @@
     "ats": "lever",
     "verifiedAt": "2026-02-28T01:35:41.163Z",
     "scrapedAt": "2026-02-27T13:32:34.126Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/3ced53d0df1ff328-operations-specialist-at-binance?ref=github",
+    "visibility": "full"
   },
   {
     "id": "34b655a846fd94e6",
     "title": "Frontend Engineer",
-    "company": null,
+    "company": "Magic Eden",
     "region": "APAC",
     "salary": "$121k–$178k/year",
     "salaryMin": 121048,
@@ -50652,13 +50652,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T01:36:01.030Z",
     "scrapedAt": "2026-02-27T13:32:53.520Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/34b655a846fd94e6-frontend-engineer-at-magic-eden?ref=github",
+    "visibility": "full"
   },
   {
     "id": "e6a3bd44bc5abbd9",
     "title": "Senior Product Manager, Community",
-    "company": null,
+    "company": "Twitch",
     "region": "APAC",
     "salary": "$151k–$205k/year",
     "salaryMin": 151200,
@@ -50671,8 +50671,8 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-28T01:37:26.853Z",
     "scrapedAt": "2026-02-27T13:34:26.003Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/e6a3bd44bc5abbd9-senior-product-manager-community-at-twitch?ref=github",
+    "visibility": "full"
   },
   {
     "id": "a0c98b66ebedb5c3",
