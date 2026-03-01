@@ -40150,28 +40150,6 @@
     "visibility": "full"
   },
   {
-    "id": "eb372e532113d1d9",
-    "title": "Business Value Consultant",
-    "company": "confluent",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Prospecting",
-      "Financial Analysis",
-      "Risk Management",
-      "Decision Making",
-      "Contract Negotiation"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-28T01:34:10.383Z",
-    "scrapedAt": "2026-02-19T09:56:35.926Z",
-    "url": "https://wagey.gg/jobs/eb372e532113d1d9-business-value-consultant-at-confluent?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "390b27682fc39e46",
     "title": "Mandarin Speaking Senior DTP Specialist",
     "company": "lilt-production",
@@ -45292,28 +45270,6 @@
     "visibility": "fomo"
   },
   {
-    "id": "4f000ba1e44e0fce",
-    "title": "Customer Success Technical Architect",
-    "company": "confluent",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Kafka",
-      "Customer Success",
-      "Cassandra",
-      "Performance Management",
-      "AWS"
-    ],
-    "seniority": "principal",
-    "ats": "ashby",
-    "verifiedAt": "2026-02-28T01:36:55.510Z",
-    "scrapedAt": "2026-02-24T14:32:02.453Z",
-    "url": "https://wagey.gg/jobs/4f000ba1e44e0fce-customer-success-technical-architect-at-confluent?ref=github",
-    "visibility": "fomo"
-  },
-  {
     "id": "4b092fee2b62dcc0",
     "title": "Sprinto - Customer Success Analyst Intern",
     "company": "Sprinto",
@@ -49363,7 +49319,7 @@
     "verifiedAt": "2026-02-28T03:26:09.410Z",
     "scrapedAt": "2026-02-27T03:05:04.473Z",
     "url": "https://wagey.gg/jobs/612cec91af60895a-business-development-manager-at-dourolabs-xyz?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "d3859f8ec2c426de",
@@ -49385,7 +49341,7 @@
     "verifiedAt": "2026-02-28T03:26:36.690Z",
     "scrapedAt": "2026-02-27T03:05:06.943Z",
     "url": "https://wagey.gg/jobs/d3859f8ec2c426de-software-engineer-sg-at-artafinance?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "fb4112730065b50d",
