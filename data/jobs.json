@@ -51255,7 +51255,7 @@
   {
     "id": "8090c93db1e750dc",
     "title": "Engineering Manager",
-    "company": null,
+    "company": "Moniepoint",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -51271,13 +51271,13 @@
     "ats": "greenhouse",
     "verifiedAt": "2026-02-28T07:45:23.323Z",
     "scrapedAt": "2026-02-27T19:28:24.376Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/8090c93db1e750dc-engineering-manager-at-moniepoint?ref=github",
+    "visibility": "full"
   },
   {
     "id": "816401876ab88b2a",
     "title": "Senior Recruiter (Remote India)",
-    "company": null,
+    "company": "dualentry",
     "region": "APAC",
     "salary": "$15k–$25k/year",
     "salaryMin": 15000,
@@ -51287,8 +51287,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T07:44:59.990Z",
     "scrapedAt": "2026-02-27T19:28:35.770Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/816401876ab88b2a-senior-recruiter-remote-india-at-dualentry?ref=github",
+    "visibility": "full"
   },
   {
     "id": "91dcb0edf47a9918",
@@ -53041,6 +53041,59 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-01T16:21:36.853Z",
     "scrapedAt": "2026-03-01T16:21:35.753Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "97db5f9d298f7796",
+    "title": "Senior Solutions Engineer",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Stakeholder Management",
+      "Prospecting",
+      "Product Marketing",
+      "CSM",
+      "GCP",
+      "AWS",
+      "Azure",
+      "Objection Handling",
+      "Mid-Market"
+    ],
+    "seniority": "senior",
+    "ats": "lever",
+    "verifiedAt": "2026-03-01T19:21:11.550Z",
+    "scrapedAt": "2026-03-01T19:21:10.656Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "5dbd602b7c256875",
+    "title": "Product Lead, AI-Native (Special Projects)",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Move",
+      "Prospecting",
+      "Reporting",
+      "Gemini",
+      "LangChain",
+      "Full Stack",
+      "Flutter",
+      "Python",
+      "GMV",
+      "Excel"
+    ],
+    "seniority": "staff",
+    "ats": "lever",
+    "verifiedAt": "2026-03-01T19:22:17.080Z",
+    "scrapedAt": "2026-03-01T19:22:16.076Z",
     "url": null,
     "visibility": "teaser"
   }
