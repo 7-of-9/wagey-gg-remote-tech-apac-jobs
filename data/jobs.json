@@ -951,25 +951,6 @@
     "visibility": "full"
   },
   {
-    "id": "c0da724de07e",
-    "title": "Sewing Specialist – Freelance AI Trainer Project",
-    "company": "Invisible Agency",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "Assembly",
-      "Documentation"
-    ],
-    "seniority": null,
-    "ats": "greenhouse",
-    "verifiedAt": "2026-02-28T09:52:08.060Z",
-    "scrapedAt": "2026-01-10T14:18:54.760Z",
-    "url": "https://wagey.gg/jobs/c0da724de07e-sewing-specialist-freelance-ai-trainer-project-at-invisible-agency?ref=github",
-    "visibility": "full"
-  },
-  {
     "id": "23a503f5720d",
     "title": "Staff Backend Engineer, Institutional Custody",
     "company": "Ava Labs",
@@ -49918,7 +49899,7 @@
     "verifiedAt": "2026-02-28T10:39:54.226Z",
     "scrapedAt": "2026-02-27T09:32:19.943Z",
     "url": "https://wagey.gg/jobs/1eb238f13bcffb4c-rust-at-gate?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "53c8b6794f40ad0e",
@@ -49940,7 +49921,7 @@
     "verifiedAt": "2026-02-28T10:58:14.890Z",
     "scrapedAt": "2026-02-27T09:32:21.606Z",
     "url": "https://wagey.gg/jobs/53c8b6794f40ad0e-senior-software-engineering-lead-resilience-and-chaos-engineering-at-intrinsic?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "96c1cd1be3c35742",
@@ -49962,7 +49943,7 @@
     "verifiedAt": "2026-02-28T10:58:22.133Z",
     "scrapedAt": "2026-02-27T09:32:23.933Z",
     "url": "https://wagey.gg/jobs/96c1cd1be3c35742-senior-backend-engineer-java-at-moniepoint?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "6494e31d0815ee7e",
@@ -49984,7 +49965,7 @@
     "verifiedAt": "2026-02-28T10:58:18.376Z",
     "scrapedAt": "2026-02-27T09:32:24.016Z",
     "url": "https://wagey.gg/jobs/6494e31d0815ee7e-senior-mobile-engineer-at-moniepoint?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "c64cebfbdc7e1603",
@@ -50003,7 +49984,7 @@
     "verifiedAt": "2026-02-28T10:58:30.663Z",
     "scrapedAt": "2026-02-27T09:32:29.213Z",
     "url": "https://wagey.gg/jobs/c64cebfbdc7e1603-software-engineer-iii-at-bugcrowd?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "5afef0ce5b8a1660",
@@ -50019,7 +50000,7 @@
     "verifiedAt": "2026-02-28T10:40:09.700Z",
     "scrapedAt": "2026-02-27T09:32:31.806Z",
     "url": "https://wagey.gg/jobs/5afef0ce5b8a1660-web3-at-gate?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "df3addb5097272c9",
@@ -50038,7 +50019,7 @@
     "verifiedAt": "2026-02-28T10:58:36.383Z",
     "scrapedAt": "2026-02-27T09:32:32.750Z",
     "url": "https://wagey.gg/jobs/df3addb5097272c9-software-engineer-ii-at-bugcrowd?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "7b4c1e64bff48474",
@@ -50060,7 +50041,7 @@
     "verifiedAt": "2026-02-28T11:04:58.450Z",
     "scrapedAt": "2026-02-27T09:38:52.773Z",
     "url": "https://wagey.gg/jobs/7b4c1e64bff48474-software-engineer-london-at-trustpilot?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "24d3bdbe011edec1",
@@ -50082,7 +50063,7 @@
     "verifiedAt": "2026-02-28T11:08:04.706Z",
     "scrapedAt": "2026-02-27T09:41:48.290Z",
     "url": "https://wagey.gg/jobs/24d3bdbe011edec1-senior-machine-learning-engineer-ii-at-judi-health?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "fe61cc612c38a703",
@@ -50104,7 +50085,7 @@
     "verifiedAt": "2026-02-28T11:08:13.760Z",
     "scrapedAt": "2026-02-27T09:41:58.576Z",
     "url": "https://wagey.gg/jobs/fe61cc612c38a703-staff-software-engineer-full-stack-at-affinidi?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "34269deac65839b1",
@@ -50126,7 +50107,7 @@
     "verifiedAt": "2026-02-28T11:09:02.353Z",
     "scrapedAt": "2026-02-27T09:42:43.283Z",
     "url": "https://wagey.gg/jobs/34269deac65839b1-senior-manager-software-engineering-l5-at-twilio?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "5f948ad7265e66c8",
@@ -50148,7 +50129,7 @@
     "verifiedAt": "2026-02-28T11:10:31.146Z",
     "scrapedAt": "2026-02-27T09:43:55.616Z",
     "url": "https://wagey.gg/jobs/5f948ad7265e66c8-engineering-manager-full-stack-at-affinidi?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "8ad02577b04d8b7e",
@@ -50170,7 +50151,7 @@
     "verifiedAt": "2026-02-28T11:11:42.733Z",
     "scrapedAt": "2026-02-27T09:45:11.743Z",
     "url": "https://wagey.gg/jobs/8ad02577b04d8b7e-senior-software-engineer-back-end-bangkok-based-relocation-provided-at-agoda?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "15e9dcc8c2d45956",
@@ -50192,12 +50173,12 @@
     "verifiedAt": "2026-02-28T11:11:49.863Z",
     "scrapedAt": "2026-02-27T09:45:27.666Z",
     "url": "https://wagey.gg/jobs/15e9dcc8c2d45956-content-specialist-web3-crypto-exchange-at-hyphen-connect-limited?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "4cdd0e34b375c899",
     "title": "Saviynt - Partner Solutions Architect",
-    "company": null,
+    "company": "Saviynt",
     "region": "APAC",
     "salary": "$163k–$240k/year",
     "salaryMin": 163000,
@@ -50213,8 +50194,8 @@
     "ats": "lever",
     "verifiedAt": "2026-02-27T23:59:43.810Z",
     "scrapedAt": "2026-02-27T11:58:32.243Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/4cdd0e34b375c899-saviynt-partner-solutions-architect-at-saviynt?ref=github",
+    "visibility": "full"
   },
   {
     "id": "40339a09ac422564",
