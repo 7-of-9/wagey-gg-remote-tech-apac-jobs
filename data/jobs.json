@@ -43006,7 +43006,7 @@
     "verifiedAt": "2026-02-28T05:49:35.366Z",
     "scrapedAt": "2026-02-23T00:50:10.790Z",
     "url": "https://wagey.gg/jobs/5d8235a2259a4d27-partner-success-manager-installations-at-motive?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "a6c864dbcdc67bac",
@@ -43028,7 +43028,7 @@
     "verifiedAt": "2026-02-28T05:49:54.390Z",
     "scrapedAt": "2026-02-23T00:50:11.716Z",
     "url": "https://wagey.gg/jobs/a6c864dbcdc67bac-senior-business-intelligence-manager-growth-at-okx?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "24f28ab9ba25dade",
@@ -43048,7 +43048,7 @@
     "verifiedAt": "2026-02-28T04:34:39.110Z",
     "scrapedAt": "2026-02-23T00:50:13.776Z",
     "url": "https://wagey.gg/jobs/24f28ab9ba25dade-customer-success-manager-apac-channel-at-instructure-inc?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "c85d21716105c35a",
@@ -43070,7 +43070,7 @@
     "verifiedAt": "2026-02-28T04:34:56.140Z",
     "scrapedAt": "2026-02-23T00:50:15.703Z",
     "url": "https://wagey.gg/jobs/c85d21716105c35a-design-lead-at-dourolabs-xyz?ref=github",
-    "visibility": "fomo"
+    "visibility": "full"
   },
   {
     "id": "93fdaeb0da25403b",
@@ -51288,7 +51288,7 @@
     "verifiedAt": "2026-02-28T10:38:53.493Z",
     "scrapedAt": "2026-02-27T22:37:20.803Z",
     "url": "https://wagey.gg/jobs/91dcb0edf47a9918-renewal-specialist-at-level-access?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "65a60b522a380d9b",
@@ -51309,12 +51309,12 @@
     "verifiedAt": "2026-02-28T10:38:10.323Z",
     "scrapedAt": "2026-02-27T22:37:32.800Z",
     "url": "https://wagey.gg/jobs/65a60b522a380d9b-customer-success-manager-at-elliptic?ref=github",
-    "visibility": "full"
+    "visibility": "fomo"
   },
   {
     "id": "64896c69721fbd36",
     "title": "Senior Data Engineer",
-    "company": null,
+    "company": "Halter",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -51328,13 +51328,13 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T00:44:23.550Z",
     "scrapedAt": "2026-02-28T00:44:23.023Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/64896c69721fbd36-senior-data-engineer-at-halter?ref=github",
+    "visibility": "full"
   },
   {
     "id": "2be2efd34e7dd68c",
     "title": "Senior Software Engineer",
-    "company": null,
+    "company": "Atlan",
     "region": "APAC",
     "salary": "",
     "salaryMin": null,
@@ -51354,8 +51354,8 @@
     "ats": "ashby",
     "verifiedAt": "2026-02-28T00:46:18.766Z",
     "scrapedAt": "2026-02-28T00:46:17.993Z",
-    "url": null,
-    "visibility": "teaser"
+    "url": "https://wagey.gg/jobs/2be2efd34e7dd68c-senior-software-engineer-at-atlan?ref=github",
+    "visibility": "full"
   },
   {
     "id": "1bb531e4f9c5dbf0",
@@ -53092,6 +53092,42 @@
     "ats": "ashby",
     "verifiedAt": "2026-03-01T22:42:21.066Z",
     "scrapedAt": "2026-03-01T22:42:20.426Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "ca01ad3a7b80fec3",
+    "title": "Senior Associate Recruiter",
+    "company": null,
+    "region": "APAC",
+    "salary": "",
+    "salaryMin": null,
+    "salaryMax": null,
+    "skills": [
+      "Greenhouse",
+      "Workday",
+      "Lever"
+    ],
+    "seniority": "senior",
+    "ats": "greenhouse",
+    "verifiedAt": "2026-03-02T00:53:10.260Z",
+    "scrapedAt": "2026-03-02T00:53:09.680Z",
+    "url": null,
+    "visibility": "teaser"
+  },
+  {
+    "id": "86ea5bc76895ff84",
+    "title": "Software Engineer, Product, Growth and Acquisitions",
+    "company": null,
+    "region": "APAC",
+    "salary": "$80k–$225k/year",
+    "salaryMin": 80000,
+    "salaryMax": 225000,
+    "skills": [],
+    "seniority": null,
+    "ats": "ashby",
+    "verifiedAt": "2026-03-02T01:28:24.060Z",
+    "scrapedAt": "2026-03-02T01:28:23.676Z",
     "url": null,
     "visibility": "teaser"
   }
