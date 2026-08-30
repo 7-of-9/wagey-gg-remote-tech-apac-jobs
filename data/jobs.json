@@ -32456,7 +32456,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-29T00:00:07.058Z",
+    "verifiedAt": "2026-08-29T19:24:21.339Z",
     "scrapedAt": "2026-06-03T09:58:04.799Z",
     "url": "https://wagey.gg/jobs/64acf2550b609381-dilitrust-senior-fullstack-software-engineer-node-js-vue-js-at-dilitrust?ref=github",
     "visibility": "full"
@@ -32497,7 +32497,7 @@
     ],
     "seniority": "senior",
     "ats": "lever",
-    "verifiedAt": "2026-07-29T00:00:29.633Z",
+    "verifiedAt": "2026-08-29T19:24:31.058Z",
     "scrapedAt": "2026-06-03T10:06:50.357Z",
     "url": "https://wagey.gg/jobs/f2ff56f54452bda8-raya-senior-backend-engineer-member-experience-at-raya?ref=github",
     "visibility": "full"
@@ -33168,7 +33168,7 @@
     ],
     "seniority": "senior",
     "ats": "ashby",
-    "verifiedAt": "2026-07-29T10:17:43.095Z",
+    "verifiedAt": "2026-08-29T19:25:01.357Z",
     "scrapedAt": "2026-06-03T13:30:47.914Z",
     "url": "https://wagey.gg/jobs/b209f606c9b459a3-product-engineer-tax-pod-at-multiplier-holdings?ref=github",
     "visibility": "full"
@@ -41784,7 +41784,7 @@
     ],
     "seniority": "mid",
     "ats": "ashby",
-    "verifiedAt": "2026-07-28T23:01:33.083Z",
+    "verifiedAt": "2026-08-29T19:33:29.146Z",
     "scrapedAt": "2026-06-23T07:19:16.021Z",
     "url": "https://wagey.gg/jobs/df18e5b94eea0794-enterprise-field-engineer-pre-sales-southeast-asia-at-coderabbit?ref=github",
     "visibility": "full"
@@ -49720,42 +49720,6 @@
     "verifiedAt": "2026-07-29T10:09:50.859Z",
     "scrapedAt": "2026-07-09T01:28:17.004Z",
     "url": "https://wagey.gg/jobs/fa1c0a248799d6e4-billing-systems-specialist-at-absorblms?ref=github",
-    "visibility": "full"
-  },
-  {
-    "id": "7c1f94871e3324ff",
-    "title": "Senior Software Developer ",
-    "company": "absorblms",
-    "region": "APAC",
-    "salary": "",
-    "salaryMin": null,
-    "salaryMax": null,
-    "skills": [
-      "C#",
-      "REST",
-      "Git",
-      ".NET",
-      "ASP.NET",
-      "JavaScript",
-      "TypeScript",
-      "Front-end",
-      "React",
-      "Coaching",
-      "Docker",
-      "Claude",
-      "SQL",
-      "Entity Framework",
-      "SQL Server",
-      "Documentation",
-      "Cursor",
-      "Sprint Planning",
-      "AWS"
-    ],
-    "seniority": "senior",
-    "ats": "ashby",
-    "verifiedAt": "2026-07-29T10:09:51.209Z",
-    "scrapedAt": "2026-07-09T01:28:17.505Z",
-    "url": "https://wagey.gg/jobs/7c1f94871e3324ff-senior-software-developer-at-absorblms?ref=github",
     "visibility": "full"
   },
   {
@@ -65895,7 +65859,7 @@
     ],
     "seniority": "mid",
     "ats": "lever",
-    "verifiedAt": "2026-07-29T07:52:35.364Z",
+    "verifiedAt": "2026-08-29T19:26:45.006Z",
     "scrapedAt": "2026-07-28T19:51:40.380Z",
     "url": "https://wagey.gg/jobs/a98bad29e737cb46-software-engineer-auth-access-india-at-jumpcloud?ref=github",
     "visibility": "full"
